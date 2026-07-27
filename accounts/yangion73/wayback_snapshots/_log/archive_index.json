@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-27T20:49:47",
+  "last_updated": "2026-07-27T20:50:01",
   "html": {
     "https://web.archive.org/web/20260603112956if_/https://twitter.com/yangion73/status/2062134686957379846": {
       "status": "done",
@@ -3682,11 +3682,11 @@
       "last_updated": "2026-07-27T16:05:16"
     },
     "https://pbs.twimg.com/profile_images/2059234381898956800/PiQ1dVCW_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260603152444_twitter_com_yangion73_status_2062193776039452853.json"
       ],
-      "last_updated": "2026-07-27T16:05:21",
+      "last_updated": "2026-07-27T20:50:00",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603152444if_/https://pbs.twimg.com/profile_images/2059234381898956800/PiQ1dVCW_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb182901d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -5349,7 +5349,7 @@
       "last_updated": "2026-07-27T16:05:18"
     },
     "20260603152444_twitter_com_yangion73_status_2062193776039452853.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HJ492ZgboAAsYYF.jpg"
@@ -5360,7 +5360,7 @@
           "https://pbs.twimg.com/profile_images/2059234381898956800/PiQ1dVCW_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-27T20:49:47",
+      "last_updated": "2026-07-27T20:50:00",
       "miss_count": 2
     },
     "20260603155420_twitter_com_yangion73_status_2062201222766223506.json": {
