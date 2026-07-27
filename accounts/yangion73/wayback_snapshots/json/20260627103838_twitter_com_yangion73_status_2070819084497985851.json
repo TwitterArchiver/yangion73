@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2070804276868489456",
+    "created_at": "2026-06-27T10:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070819084497985851"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070819084497985851",
+    "in_reply_to_user_id": "2061329105266831360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070804276868489456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "18:37   再服用加巴 2t   配浓茶服用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2070804276868489456",
+        "created_at": "2026-06-27T10:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070819084497985851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070819084497985851",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070804276868489456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "18:37   再服用加巴 2t   配浓茶服用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2070804276868489456",
+        "created_at": "2026-06-27T09:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070804276868489456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070804276868489456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物：加巴喷丁  派汀 0.3g 每 t\n17:33   服用 4t\n第一次用加巴，祝我好运"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 107,
+          "like_count": 110,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

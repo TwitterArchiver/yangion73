@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2079249306524205080",
+    "created_at": "2026-07-21T01:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079370861388439567"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079370861388439567",
+    "in_reply_to_user_id": "2061329105266831360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079249306524205080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "右半边脸是麻的，吐了一点点酸水，比第一次用美金刚好多了，那次吐了好多\n去上厕所发现完全尿不出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2079249306524205080",
+        "created_at": "2026-07-21T01:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079370861388439567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079370861388439567",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079249306524205080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "右半边脸是麻的，吐了一点点酸水，比第一次用美金刚好多了，那次吐了好多\n去上厕所发现完全尿不出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2079249306524205080",
+        "created_at": "2026-07-20T16:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079249306524205080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangion73/stat…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/yangion73/status/2079194518260527535",
+              "start": 106,
+              "url": "https://t.co/LRfmuuizKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079249306524205080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079194518260527535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来的帖太长了，另开一个\n续-～\n00:52 美金刚奇特的药效，让我手脚发麻，感觉不到四肢了\n脑子里闪过好多画面\n\n截止目前  一共 \n加巴喷丁 16  巴氯芬 4t  美金刚 8t  奥沙西泮 1t\n应该没事 https://t.co/LRfmuuizKG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 217,
+          "like_count": 217,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

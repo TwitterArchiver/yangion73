@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2073674812380381349",
+    "created_at": "2026-07-05T07:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073674812380381349"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073674812380381349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在医院里面基本上每天都过的浑浑噩噩，手机电量都没超过四十格过，除了刷手机，做那一堆没用的治疗，吃药，就只有躺在床上\n像最近几天感觉状态更差了，连手机都不想玩，只想躺着，又睡不着，连呼吸都感觉累😮‍💨，不知道能做些什么，又不敢说，说了医生就得延迟出院，虽然回家也是摆烂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2073674812380381349",
+        "created_at": "2026-07-05T07:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073674812380381349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073674812380381349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在医院里面基本上每天都过的浑浑噩噩，手机电量都没超过四十格过，除了刷手机，做那一堆没用的治疗，吃药，就只有躺在床上\n像最近几天感觉状态更差了，连手机都不想玩，只想躺着，又睡不着，连呼吸都感觉累😮‍💨，不知道能做些什么，又不敢说，说了医生就得延迟出院，虽然回家也是摆烂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 157,
+          "like_count": 146,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 286
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

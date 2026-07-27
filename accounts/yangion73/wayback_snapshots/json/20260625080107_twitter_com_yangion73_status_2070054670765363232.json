@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2070040642638762038",
+    "created_at": "2026-06-25T08:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070054670765363232"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070054670765363232",
+    "in_reply_to_user_id": "2061329105266831360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070040642638762038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过好像距离出院还遥遥无期😮‍💨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2070040642638762038",
+        "created_at": "2026-06-25T08:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070054670765363232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070054670765363232",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070040642638762038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过好像距离出院还遥遥无期😮‍💨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2070040642638762038",
+        "created_at": "2026-06-25T07:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070040642638762038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070040642638762038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么说服我的主治给我开小证\n今天她叫我过去聊聊，我想着就顺便问问一些事情\n我问她能不能出院的时候出院诊断写个异性症，实在不行写待诊也行，她就一直推脱，说什么这个不是病，下不了诊断之类的，后面也是只能无功而返\n也许直接说就不行吧，或者在厦门精卫开不了，我还是老老实实去广州或者上海吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 100,
+          "like_count": 91,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

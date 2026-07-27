@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2070040642638762038",
+    "created_at": "2026-06-25T08:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070066166895403489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1964335711521558531",
+          "start": 0,
+          "username": "bbkk23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070066166895403489",
+    "in_reply_to_user_id": "1964335711521558531",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070041259130184162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbkk23333 嗯嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2070040642638762038",
+        "created_at": "2026-06-25T08:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070066166895403489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964335711521558531",
+              "start": 0,
+              "username": "bbkk23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070066166895403489",
+        "in_reply_to_user_id": "1964335711521558531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070041259130184162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbkk23333 嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964335711521558531",
+        "conversation_id": "2070040642638762038",
+        "created_at": "2026-06-25T07:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070041259130184162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2061329105266831360",
+              "start": 0,
+              "username": "yangion73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070041259130184162",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070040642638762038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangion73 加油喵，我没办过小证我也不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 99,
+          "like_count": 92,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵\n网络小宠物这一块，假期24小吋高强度刷推≽^ ⦁ ⩊ ⦁ ^≼",
+        "id": "1964335711521558531",
+        "location": "垃圾桶旁边的纸箱",
+        "name": "沐雨春喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 188,
+          "like_count": 670,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 497
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": false
+      }
+    ]
+  }
+}

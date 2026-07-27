@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2062139999307575783",
+    "created_at": "2026-06-03T15:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T16:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062201222766223506"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062201222766223506",
+    "in_reply_to_user_id": "2061329105266831360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062139999307575783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到就诊的时候我已经 10 个小时没有睡觉了，前一夜只睡了三个小时"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062139991292305408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4xZXoa4AA0eOl.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2062139999307575783",
+        "created_at": "2026-06-03T15:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062201222766223506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062201222766223506",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062139999307575783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到就诊的时候我已经 10 个小时没有睡觉了，前一夜只睡了三个小时"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062139991292305408"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "conversation_id": "2062139999307575783",
+        "created_at": "2026-06-03T11:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062139999307575783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ukYUWtWPO7",
+              "end": 28,
+              "expanded_url": "https://x.com/yangion73/status/2062139999307575783/photo/1",
+              "media_key": "3_2062139991292305408",
+              "start": 5,
+              "url": "https://t.co/ukYUWtWPO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062139999307575783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "并非自愿 https://t.co/ukYUWtWPO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n 欢迎互 fo 呀\n2026中考",
+        "id": "2061329105266831360",
+        "name": "溯音 ige🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329398780018688/tLrSswO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 36,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066392541155729408",
+        "3_2066392540803391488"
+      ]
+    },
+    "author_id": "2061329105266831360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066392551247274021",
+    "created_at": "2026-06-15T05:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066392551247274021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ZCypPALVb",
+          "end": 44,
+          "expanded_url": "https://x.com/yangion73/status/2066392551247274021/photo/1",
+          "media_key": "3_2066392541155729408",
+          "start": 21,
+          "url": "https://t.co/8ZCypPALVb"
+        },
+        {
+          "display_url": "pic.x.com/8ZCypPALVb",
+          "end": 44,
+          "expanded_url": "https://x.com/yangion73/status/2066392551247274021/photo/1",
+          "media_key": "3_2066392540803391488",
+          "start": 21,
+          "url": "https://t.co/8ZCypPALVb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066392551247274021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做完电休本来头就疼，现在又要过来敲😭😭😭 https://t.co/8ZCypPALVb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066392541155729408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1NEWYaoAA95_0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066392540803391488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1NEVEaYAAkVCv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066392541155729408",
+            "3_2066392540803391488"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066392551247274021",
+        "created_at": "2026-06-15T05:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066392551247274021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ZCypPALVb",
+              "end": 44,
+              "expanded_url": "https://x.com/yangion73/status/2066392551247274021/photo/1",
+              "media_key": "3_2066392541155729408",
+              "start": 21,
+              "url": "https://t.co/8ZCypPALVb"
+            },
+            {
+              "display_url": "pic.x.com/8ZCypPALVb",
+              "end": 44,
+              "expanded_url": "https://x.com/yangion73/status/2066392551247274021/photo/1",
+              "media_key": "3_2066392540803391488",
+              "start": 21,
+              "url": "https://t.co/8ZCypPALVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066392551247274021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做完电休本来头就疼，现在又要过来敲😭😭😭 https://t.co/8ZCypPALVb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 65,
+          "like_count": 53,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 112
+        },
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2066423422280978462",
+    "created_at": "2026-06-15T11:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T12:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066483792190259627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1932054193625522176",
+          "start": 0,
+          "username": "6forsaken6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066483792190259627",
+    "in_reply_to_user_id": "1932054193625522176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066423422280978462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6forsaken6 呜呜呜，我们还要 6.21 才考"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1914,
+        "media_key": "3_2066423403033333760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1pIv1bEAAfyoY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2066423422280978462",
+        "created_at": "2026-06-15T11:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066483792190259627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1932054193625522176",
+              "start": 0,
+              "username": "6forsaken6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066483792190259627",
+        "in_reply_to_user_id": "1932054193625522176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066423422280978462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6forsaken6 呜呜呜，我们还要 6.21 才考"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066423403033333760"
+          ]
+        },
+        "author_id": "1932054193625522176",
+        "conversation_id": "2066423422280978462",
+        "created_at": "2026-06-15T07:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066423422280978462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/16JUf3gIF0",
+              "end": 33,
+              "expanded_url": "https://x.com/6forsaken6/status/2066423422280978462/photo/1",
+              "media_key": "3_2066423403033333760",
+              "start": 10,
+              "url": "https://t.co/16JUf3gIF0"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2066423422280978462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9059,
+          "like_count": 173,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我免费了，中考结束 https://t.co/16JUf3gIF0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 66,
+          "like_count": 54,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 117
+        },
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T12:36:37.000Z",
+        "description": "初中生(要中考力)/ENTP/爱看百合/tomorin/废物吉他手(兼没用的贝斯手)/木柜子痴/马克思主义者/交友\n\n反台独/辱华/殖人/见证魔怔人\n\nhttps://t.co/RYdboBzlGB     喵喵喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/forsaken48477",
+                "end": 99,
+                "expanded_url": "http://ngl.link/forsaken48477",
+                "start": 76,
+                "url": "https://t.co/RYdboBzlGB"
+              }
+            ]
+          }
+        },
+        "id": "1932054193625522176",
+        "name": "常凯申",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053420265867239424/YR7k3Ggn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 111,
+          "like_count": 1989,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1156
+        },
+        "username": "6forsaken6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2075534175504105563",
+    "created_at": "2026-07-11T04:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075796459669393639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2071688519148605440",
+          "start": 0,
+          "username": "BaiNiyafs7d"
+        },
+        {
+          "end": 28,
+          "id": "2026547944418312192",
+          "start": 13,
+          "username": "skibidi_dicker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075796459669393639",
+    "in_reply_to_user_id": "2071688519148605440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075601440543006879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaiNiyafs7d @skibidi_dicker 我更在意我能快乐的活多久..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075601437003055104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4EgovbgAAym7n.jpg",
+        "width": 1820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2075534175504105563",
+        "created_at": "2026-07-11T04:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075796459669393639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071688519148605440",
+              "start": 0,
+              "username": "BaiNiyafs7d"
+            },
+            {
+              "end": 28,
+              "id": "2026547944418312192",
+              "start": 13,
+              "username": "skibidi_dicker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075796459669393639",
+        "in_reply_to_user_id": "2071688519148605440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075601440543006879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaiNiyafs7d @skibidi_dicker 我更在意我能快乐的活多久..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075601437003055104"
+          ]
+        },
+        "author_id": "2071688519148605440",
+        "conversation_id": "2075534175504105563",
+        "created_at": "2026-07-10T15:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075601440543006879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2026547944418312192",
+              "start": 0,
+              "username": "skibidi_dicker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PgsVwsNr59",
+              "end": 52,
+              "expanded_url": "https://x.com/BaiNiyafs7d/status/2075601440543006879/photo/1",
+              "media_key": "3_2075601437003055104",
+              "start": 29,
+              "url": "https://t.co/PgsVwsNr59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075601440543006879",
+        "in_reply_to_user_id": "2026547944418312192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075534175504105563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skibidi_dicker 其实我更在意你能活多久… https://t.co/PgsVwsNr59"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n续上糖了(开心☺️)\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 179,
+          "like_count": 181,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-29T20:14:07.000Z",
+        "description": "",
+        "id": "2071688519148605440",
+        "name": "Bai Niya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071689409213153280/yWJ1FgWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 40,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "BaiNiyafs7d",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T06:41:04.000Z",
+        "description": "@omgnowihasfish 的小帳號 我會在這裡分享我的日常🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "omgnowihasfish"
+              }
+            ]
+          }
+        },
+        "id": "2026547944418312192",
+        "name": "黃瓜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051489095621525504/wwJd-zjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 277,
+          "like_count": 1160,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "skibidi_dicker",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2065313094465933558",
+    "created_at": "2026-06-12T05:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065313094465933558"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065313094465933558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个很神奇的事情\n我在没自杀前去开小证，医生说我还不够坚定的要改变性别，不给我开\n现在给我逼到自杀了，再去找医生（不是同一个）医生说我情绪过激，脑子不清醒，还是不给我开\n到底怎么才能开出来啊😫\n我感觉我现在在住院，能长时间和医生接触，是最有希望开出来的时候了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2065313094465933558",
+        "created_at": "2026-06-12T05:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065313094465933558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065313094465933558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个很神奇的事情\n我在没自杀前去开小证，医生说我还不够坚定的要改变性别，不给我开\n现在给我逼到自杀了，再去找医生（不是同一个）医生说我情绪过激，脑子不清醒，还是不给我开\n到底怎么才能开出来啊😫\n我感觉我现在在住院，能长时间和医生接触，是最有希望开出来的时候了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 59,
+          "like_count": 40,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 94
+        },
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

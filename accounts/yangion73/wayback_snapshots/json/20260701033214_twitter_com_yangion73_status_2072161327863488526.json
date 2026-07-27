@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2072161327863488526",
+    "created_at": "2026-07-01T03:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072161327863488526"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072161327863488526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "电休克结束应该不久就能出院了，能出院了本来应该是好事，但我却只能感觉到对未来的恐惧\n出去之后我也还是会迷茫失落抑郁，进而 od 紫残，这一切都无法改变，感觉我也只能这样下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2072161327863488526",
+        "created_at": "2026-07-01T03:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072161327863488526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072161327863488526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电休克结束应该不久就能出院了，能出院了本来应该是好事，但我却只能感觉到对未来的恐惧\n出去之后我也还是会迷茫失落抑郁，进而 od 紫残，这一切都无法改变，感觉我也只能这样下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 132,
+          "like_count": 124,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

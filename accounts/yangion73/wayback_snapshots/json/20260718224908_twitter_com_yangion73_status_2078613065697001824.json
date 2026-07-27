@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2076978512255500789",
+    "created_at": "2026-07-18T22:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T23:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078613065697001824"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078613065697001824",
+    "in_reply_to_user_id": "2061329105266831360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076978512255500789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当时在上海，只有医院刚开出来的这个药，现在看来这个量完全死不了，不知道当时怎么想的，好尴尬😔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076978499173437440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLo8NFbUAAET8X.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2076978512255500789",
+        "created_at": "2026-07-18T22:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T23:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078613065697001824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078613065697001824",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076978512255500789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时在上海，只有医院刚开出来的这个药，现在看来这个量完全死不了，不知道当时怎么想的，好尴尬😔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076978499173437440"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076978512255500789",
+        "created_at": "2026-07-14T10:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076978512255500789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iMQF8D79EI",
+              "end": 92,
+              "expanded_url": "https://x.com/yangion73/status/2076978512255500789/photo/1",
+              "media_key": "3_2076978499173437440",
+              "start": 69,
+              "url": "https://t.co/iMQF8D79EI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076978512255500789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1003,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "13 颗地达西尼，一共 2.5×13=32.5mg，标准剂量的 13 倍，能  ，死 吗😇😇😇\n18:22   服用\n最后一次药物测试🙂 https://t.co/iMQF8D79EI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 198,
+          "like_count": 200,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 368
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

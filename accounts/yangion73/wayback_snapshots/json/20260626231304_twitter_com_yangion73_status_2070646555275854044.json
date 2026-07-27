@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2070646555275854044",
+    "created_at": "2026-06-26T23:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T00:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070646555275854044"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070646555275854044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "近期状况\n因为要回学校拍毕业照，所以医院今天暂时我放出来了，我在2026.5.17（也就是今年的生日）吞药了一次，20片碳酸锂，50片丁螺环酮，后面还是被抢救回来了，在厦门第三医院住了几天，出来一周多，又被送进厦门精卫，一直到现在，还不知道什么时候能真正出去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2070646555275854044",
+        "created_at": "2026-06-26T23:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T00:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070646555275854044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070646555275854044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "近期状况\n因为要回学校拍毕业照，所以医院今天暂时我放出来了，我在2026.5.17（也就是今年的生日）吞药了一次，20片碳酸锂，50片丁螺环酮，后面还是被抢救回来了，在厦门第三医院住了几天，出来一周多，又被送进厦门精卫，一直到现在，还不知道什么时候能真正出去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 105,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

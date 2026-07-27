@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2066522414708830549",
+    "created_at": "2026-06-16T02:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T03:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066716798922437066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1989361915290910720",
+          "start": 0,
+          "username": "catnip66667"
+        },
+        {
+          "end": 20,
+          "id": "2055095022425722880",
+          "start": 13,
+          "username": "UnkMtX"
+        },
+        {
+          "end": 37,
+          "id": "1012078861784354816",
+          "start": 21,
+          "username": "2d4SEUFUBFzltqB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066716798922437066",
+    "in_reply_to_user_id": "1989361915290910720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066522414708830549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catnip66667 @UnkMtX @2d4SEUFUBFzltqB 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2066522414708830549",
+        "created_at": "2026-06-16T02:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066716798922437066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989361915290910720",
+              "start": 0,
+              "username": "catnip66667"
+            },
+            {
+              "end": 20,
+              "id": "2055095022425722880",
+              "start": 13,
+              "username": "UnkMtX"
+            },
+            {
+              "end": 37,
+              "id": "1012078861784354816",
+              "start": 21,
+              "username": "2d4SEUFUBFzltqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066716798922437066",
+        "in_reply_to_user_id": "1989361915290910720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066522414708830549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catnip66667 @UnkMtX @2d4SEUFUBFzltqB 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2066522414708830549",
+        "created_at": "2026-06-15T14:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066522414708830549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 139,
+              "id": "1012078861784354816",
+              "start": 123,
+              "username": "2d4SEUFUBFzltqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066522414708830549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 869,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "再来一个抽奖吧🥺\n250粉开奖\n奖品如下:\npea 2g 一份\npr 5000mg 一份\n菲尼布特 12t 一份\n小美10t 一份\n关注转发赞一下即可参与!\n如果可以的话请来支持一下我们的tg小厨房 pr和pea有售中😋可以找我入群\n也可以找大厨@2d4SEUFUBFzltqB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 71,
+          "like_count": 56,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 122
+        },
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 116,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中😭不发帖就是没手机了😭|永远怀念@UnkXyn|MtX|Hrt🍥01.28.2026，断糖06.07.2026|家长反对党+年龄党|生产日期11.13.2011|暂时无法Od💊，普瑞巴林我会想你的😭|对象@Lvmaosamaovo|159cm53kg|INFP-T，重度社恐|休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "name": "𝟯.𝗨𝗻𝗸🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 1013,
+          "like_count": 2082,
+          "listed_count": 15,
+          "media_count": 54,
+          "tweet_count": 446
+        },
+        "username": "UnkMtX",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-27T21:02:58.000Z",
+        "description": "爱你们",
+        "id": "1012078861784354816",
+        "name": "爱你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065730063547695104/2s-iVBmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 27,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "2d4SEUFUBFzltqB",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2065047074543132975",
+    "created_at": "2026-06-12T05:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065301267187208692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055095022425722880",
+          "start": 0,
+          "username": "UnkMtX"
+        },
+        {
+          "end": 23,
+          "id": "1914671795766243328",
+          "start": 8,
+          "username": "xianyubang1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065301267187208692",
+    "in_reply_to_user_id": "2055095022425722880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065237353774694736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkMtX @xianyubang1145 今年中考的我现在还被关着😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2065047074543132975",
+        "created_at": "2026-06-12T05:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065301267187208692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            },
+            {
+              "end": 23,
+              "id": "1914671795766243328",
+              "start": 8,
+              "username": "xianyubang1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065301267187208692",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065237353774694736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkMtX @xianyubang1145 今年中考的我现在还被关着😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055095022425722880",
+        "conversation_id": "2065047074543132975",
+        "created_at": "2026-06-12T00:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065237353774694736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1914671795766243328",
+              "start": 0,
+              "username": "xianyubang1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065237353774694736",
+        "in_reply_to_user_id": "1914671795766243328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065064844190232818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@xianyubang1145 应该不会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 59,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 92
+        },
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中😭不发帖就是没手机了😭|永远怀念@UnkXyn|MtX|Hrt🍥01.28.2026，断糖06.06.2026|家长反对党+年龄党|生产日期11.13.2011|暂时无法Od💊，普瑞巴林我会想你的😭|对象@Lvmaosamaovo|159cm53kg|INFP-T，重度社恐|休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "name": "3.𝙐𝙣𝙠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 950,
+          "like_count": 1697,
+          "listed_count": 15,
+          "media_count": 45,
+          "tweet_count": 345
+        },
+        "username": "UnkMtX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T13:25:29.000Z",
+        "description": "坐标:杭州市钱塘区\n学校什么的就不说喵~\nMtX/MtF\n好像有喜欢的女孩纸了？///w///\n成绩很尴尬呢...不知道能不能考上普高",
+        "id": "1914671795766243328",
+        "location": "localhost",
+        "name": "salt·fish🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "2048369011264831895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058514942836568064/Agr1ru3S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 206,
+          "like_count": 5181,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1327
+        },
+        "username": "xianyubang1145",
+        "verified": false
+      }
+    ]
+  }
+}

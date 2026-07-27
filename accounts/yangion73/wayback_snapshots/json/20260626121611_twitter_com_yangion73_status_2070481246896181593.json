@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070481237576499200"
+      ]
+    },
+    "author_id": "2061329105266831360",
+    "conversation_id": "2070481246896181593",
+    "created_at": "2026-06-26T12:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070481246896181593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bRb4T9VF56",
+          "end": 82,
+          "expanded_url": "https://x.com/yangion73/status/2070481246896181593/photo/1",
+          "media_key": "3_2070481237576499200",
+          "start": 59,
+          "url": "https://t.co/bRb4T9VF56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070481246896181593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚上的药  依旧四件套\n每天吃这么多药，都要变成药罐子了，因为药物和电休克，每天脑子都是懵的，感觉完全转不动了😵‍💫 https://t.co/bRb4T9VF56"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2070481237576499200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvTtzfbwAA2otq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070481237576499200"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "conversation_id": "2070481246896181593",
+        "created_at": "2026-06-26T12:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070481246896181593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRb4T9VF56",
+              "end": 82,
+              "expanded_url": "https://x.com/yangion73/status/2070481246896181593/photo/1",
+              "media_key": "3_2070481237576499200",
+              "start": 59,
+              "url": "https://t.co/bRb4T9VF56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070481246896181593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上的药  依旧四件套\n每天吃这么多药，都要变成药罐子了，因为药物和电休克，每天脑子都是懵的，感觉完全转不动了😵‍💫 https://t.co/bRb4T9VF56"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 104,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

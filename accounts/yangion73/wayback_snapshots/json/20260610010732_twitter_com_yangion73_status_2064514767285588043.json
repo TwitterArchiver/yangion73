@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064514759211536384"
+      ]
+    },
+    "author_id": "2061329105266831360",
+    "conversation_id": "2064514767285588043",
+    "created_at": "2026-06-10T01:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T02:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064514767285588043"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rdthO25oRg",
+          "end": 28,
+          "expanded_url": "https://x.com/yangion73/status/2064514767285588043/photo/1",
+          "media_key": "3_2064514759211536384",
+          "start": 5,
+          "url": "https://t.co/rdthO25oRg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064514767285588043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两手都是 https://t.co/rdthO25oRg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064514759211536384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKahPDha0AAOstY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064514759211536384"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "conversation_id": "2064514767285588043",
+        "created_at": "2026-06-10T01:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064514767285588043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rdthO25oRg",
+              "end": 28,
+              "expanded_url": "https://x.com/yangion73/status/2064514767285588043/photo/1",
+              "media_key": "3_2064514759211536384",
+              "start": 5,
+              "url": "https://t.co/rdthO25oRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064514767285588043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两手都是 https://t.co/rdthO25oRg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天   Q：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 46,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 70
+        },
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

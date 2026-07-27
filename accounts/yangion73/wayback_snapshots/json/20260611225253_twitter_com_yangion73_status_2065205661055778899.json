@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2065108571445203075",
+    "created_at": "2026-06-11T22:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T23:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065205661055778899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1418942200457662477",
+          "start": 0,
+          "username": "Rikka_Ela"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065205661055778899",
+    "in_reply_to_user_id": "1418942200457662477",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065108571445203075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikka_Ela 恭喜姐姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1053,
+        "media_key": "3_2065108563543175168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKi9TBCbsAAJe6k.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2065108563534733313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKi9TBAa4AEYvl2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2065108563538927617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKi9TBBa4AEKW78.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065108563538927616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKi9TBBa4AAPpx-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2065108571445203075",
+        "created_at": "2026-06-11T22:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T23:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065205661055778899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065205661055778899",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065108571445203075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 恭喜姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065108563543175168",
+            "3_2065108563534733313",
+            "3_2065108563538927617",
+            "3_2065108563538927616"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2065108571445203075",
+        "created_at": "2026-06-11T16:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065108571445203075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1OJtZWm1Y",
+              "end": 26,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2065108571445203075/photo/1",
+              "media_key": "3_2065108563543175168",
+              "start": 3,
+              "url": "https://t.co/y1OJtZWm1Y"
+            },
+            {
+              "display_url": "pic.x.com/y1OJtZWm1Y",
+              "end": 26,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2065108571445203075/photo/1",
+              "media_key": "3_2065108563534733313",
+              "start": 3,
+              "url": "https://t.co/y1OJtZWm1Y"
+            },
+            {
+              "display_url": "pic.x.com/y1OJtZWm1Y",
+              "end": 26,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2065108571445203075/photo/1",
+              "media_key": "3_2065108563538927617",
+              "start": 3,
+              "url": "https://t.co/y1OJtZWm1Y"
+            },
+            {
+              "display_url": "pic.x.com/y1OJtZWm1Y",
+              "end": 26,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2065108571445203075/photo/1",
+              "media_key": "3_2065108563538927616",
+              "start": 3,
+              "url": "https://t.co/y1OJtZWm1Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065108571445203075",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7181,
+          "like_count": 217,
+          "quote_count": 1,
+          "reply_count": 54,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🌈🥹 https://t.co/y1OJtZWm1Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天   Q：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 58,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 88
+        },
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5477,
+          "following_count": 3776,
+          "like_count": 86053,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 9724
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

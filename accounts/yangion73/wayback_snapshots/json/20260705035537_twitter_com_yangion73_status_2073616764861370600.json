@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2073616764861370600",
+    "created_at": "2026-07-05T03:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073616764861370600"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073616764861370600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天最后一次电休克😇\n本来应该高兴的，但好像有点依恋那种打麻药后什么都不记得的感觉，昏昏沉沉的，不用在乎任何事情\n感觉只有在那个时候才能真正放下担忧，就算是 od 也无法达到这种奇特效果，有什么办法能搞到丙泊酚吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2073616764861370600",
+        "created_at": "2026-07-05T03:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073616764861370600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073616764861370600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天最后一次电休克😇\n本来应该高兴的，但好像有点依恋那种打麻药后什么都不记得的感觉，昏昏沉沉的，不用在乎任何事情\n感觉只有在那个时候才能真正放下担忧，就算是 od 也无法达到这种奇特效果，有什么办法能搞到丙泊酚吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 156,
+          "like_count": 144,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2078400078403039578",
+    "created_at": "2026-07-18T08:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078402138586460616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1865811054892347392",
+          "start": 0,
+          "username": "YaoieLoop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078402138586460616",
+    "in_reply_to_user_id": "1865811054892347392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078401515904278791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YaoieLoop 能推荐一下吗，谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2078400078403039578",
+        "created_at": "2026-07-18T08:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078402138586460616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1865811054892347392",
+              "start": 0,
+              "username": "YaoieLoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078402138586460616",
+        "in_reply_to_user_id": "1865811054892347392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078401515904278791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YaoieLoop 能推荐一下吗，谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865811054892347392",
+        "conversation_id": "2078400078403039578",
+        "created_at": "2026-07-18T08:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078401515904278791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2061329105266831360",
+              "start": 0,
+              "username": "yangion73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078401515904278791",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078400479940518313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangion73 可以买美区的礼品卡，淘宝就能买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 195,
+          "like_count": 199,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 366
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T17:30:10.000Z",
+        "description": "耀夜 | 环路耀夜 | 社恐🥲 | 友跨 |\nNuclear Fusion | Python |\n洛天依 | 全世界最可爱的zaza酱 @Konizaza |\nMinecraft | Left 4 Dead 2 |\nEPL ^ MU | NFL ^ Bengals |\nK-On! | School-Live! |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "Konizaza"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yaoieloop",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yaoieloop",
+                "start": 0,
+                "url": "https://t.co/a2gEtlY4Jy"
+              }
+            ]
+          }
+        },
+        "id": "1865811054892347392",
+        "location": "瓦纳海姆",
+        "name": "yaoie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075915292111462400/uZfJlWJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 99,
+          "like_count": 2946,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/a2gEtlY4Jy",
+        "username": "YaoieLoop",
+        "verified": true
+      }
+    ]
+  }
+}

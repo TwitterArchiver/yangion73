@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2070481415582654849",
+    "created_at": "2026-06-26T12:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070481415582654849"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070481415582654849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天可能要回学校拍毕业照，我都已经一个多月没有去过学校了，感觉有点紧张，好担心被同学问起情况，万一被老师叫过去“聊聊”可就完蛋了😱，感觉有不好的预感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2070481415582654849",
+        "created_at": "2026-06-26T12:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070481415582654849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070481415582654849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天可能要回学校拍毕业照，我都已经一个多月没有去过学校了，感觉有点紧张，好担心被同学问起情况，万一被老师叫过去“聊聊”可就完蛋了😱，感觉有不好的预感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 104,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 193
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

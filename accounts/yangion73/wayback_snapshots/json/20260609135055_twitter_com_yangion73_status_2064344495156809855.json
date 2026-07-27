@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2064331613954363888",
+    "created_at": "2026-06-09T13:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064344495156809855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974180019108032512",
+          "start": 0,
+          "username": "aizuoaixixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064344495156809855",
+    "in_reply_to_user_id": "1974180019108032512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064336272597086319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aizuoaixixi 可是我没有人喜欢，家里人对我也不太包容😮‍💨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2064331613954363888",
+        "created_at": "2026-06-09T13:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064344495156809855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974180019108032512",
+              "start": 0,
+              "username": "aizuoaixixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064344495156809855",
+        "in_reply_to_user_id": "1974180019108032512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064336272597086319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aizuoaixixi 可是我没有人喜欢，家里人对我也不太包容😮‍💨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974180019108032512",
+        "conversation_id": "2064331613954363888",
+        "created_at": "2026-06-09T13:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064336272597086319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2061329105266831360",
+              "start": 0,
+              "username": "yangion73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064336272597086319",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064331613954363888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangion73 会好起来的，不要这么想自己，不要给自己这么大压力，多聊聊天，你真的很棒的，往前看，你也想好起来对不对，然后和家人，喜欢的人一起出去玩，享受属于你的生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天   Q：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 46,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 67
+        },
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T18:29:40.000Z",
+        "description": "喜欢色色，三观还是正的，讨厌人机，喜欢热闹，聊天",
+        "id": "1974180019108032512",
+        "name": "推推推",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064281503560007680/i7V5_Ash_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 116,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 55
+        },
+        "username": "aizuoaixixi",
+        "verified": false
+      }
+    ]
+  }
+}

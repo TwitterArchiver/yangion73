@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2075554391877451938",
+    "created_at": "2026-07-11T04:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075796832031326693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730458100703064064",
+          "start": 0,
+          "username": "AngffaBang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075796832031326693",
+    "in_reply_to_user_id": "1730458100703064064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075554391877451938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngffaBang 揉揉😌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075554369966399488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3Zs-XbYAAV02k.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075554369920266240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3Zs-MbcAA2tH-.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2075554391877451938",
+        "created_at": "2026-07-11T04:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075796832031326693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075796832031326693",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075554391877451938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 揉揉😌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075554369966399488",
+            "3_2075554369920266240"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2075554391877451938",
+        "created_at": "2026-07-10T12:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075554391877451938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t8u8WR5X5J",
+              "end": 40,
+              "expanded_url": "https://x.com/AngffaBang/status/2075554391877451938/photo/1",
+              "media_key": "3_2075554369966399488",
+              "start": 17,
+              "url": "https://t.co/t8u8WR5X5J"
+            },
+            {
+              "display_url": "pic.x.com/t8u8WR5X5J",
+              "end": 40,
+              "expanded_url": "https://x.com/AngffaBang/status/2075554391877451938/photo/1",
+              "media_key": "3_2075554369920266240",
+              "start": 17,
+              "url": "https://t.co/t8u8WR5X5J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075554391877451938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6108,
+          "like_count": 91,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "试着烧炭了在我睡梦中给我我烫伤了 https://t.co/t8u8WR5X5J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n续上糖了(开心☺️)\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 179,
+          "like_count": 182,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8184,
+          "following_count": 606,
+          "like_count": 6623,
+          "listed_count": 6,
+          "media_count": 534,
+          "tweet_count": 3058
+        },
+        "url": "",
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

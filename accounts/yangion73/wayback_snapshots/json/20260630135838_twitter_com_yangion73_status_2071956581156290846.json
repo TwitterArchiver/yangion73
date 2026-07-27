@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2071956581156290846",
+    "created_at": "2026-06-30T13:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071956581156290846"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yangion73/stat…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/yangion73/status/2071955249527693388",
+          "start": 86,
+          "url": "https://t.co/gw8LPTQ0UE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071956581156290846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071955249527693388",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然电休克之后记忆减退，头昏眼花的感觉实在不太好受，但还是有点依恋那种打麻药时看着麻醉剂进入身体，慢慢昏沉下去的安心感，感觉只有那时候才能睡上一个安稳觉，不用再担心着什么 https://t.co/gw8LPTQ0UE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2071956581156290846",
+        "created_at": "2026-06-30T13:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071956581156290846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangion73/stat…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/yangion73/status/2071955249527693388",
+              "start": 86,
+              "url": "https://t.co/gw8LPTQ0UE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071956581156290846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071955249527693388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然电休克之后记忆减退，头昏眼花的感觉实在不太好受，但还是有点依恋那种打麻药时看着麻醉剂进入身体，慢慢昏沉下去的安心感，感觉只有那时候才能睡上一个安稳觉，不用再担心着什么 https://t.co/gw8LPTQ0UE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2071955249527693388",
+        "created_at": "2026-06-30T13:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071955249527693388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071955249527693388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦，快十点了，药已经吃了一个多小时了，还是睡不着\n我的主治早上说我电休克的疗程下周就结束了（一共 12 次），但我自己感觉来住院也没有什么改善，反而因为各种各样的事情担心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 128,
+          "like_count": 121,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2061847454342078676",
+    "created_at": "2026-06-02T20:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T21:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061906663901372767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517042285283667968",
+          "start": 0,
+          "username": "HosiRen1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061906663901372767",
+    "in_reply_to_user_id": "1517042285283667968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061847454342078676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosiRen1999 向前辈致敬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2061847450898554880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0nVRvaYAA0G-_.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3041,
+        "media_key": "3_2061847450240114688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0nVPSbYAA274Z.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2061847454342078676",
+        "created_at": "2026-06-02T20:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T21:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061906663901372767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517042285283667968",
+              "start": 0,
+              "username": "HosiRen1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061906663901372767",
+        "in_reply_to_user_id": "1517042285283667968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061847454342078676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosiRen1999 向前辈致敬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061847450898554880",
+            "3_2061847450240114688"
+          ]
+        },
+        "author_id": "1517042285283667968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061847454342078676",
+        "created_at": "2026-06-02T16:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061847454342078676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAG0IBc2cl",
+              "end": 93,
+              "expanded_url": "https://x.com/HosiRen1999/status/2061847454342078676/photo/1",
+              "media_key": "3_2061847450898554880",
+              "start": 70,
+              "url": "https://t.co/sAG0IBc2cl"
+            },
+            {
+              "display_url": "pic.x.com/sAG0IBc2cl",
+              "end": 93,
+              "expanded_url": "https://x.com/HosiRen1999/status/2061847454342078676/photo/1",
+              "media_key": "3_2061847450240114688",
+              "start": 70,
+              "url": "https://t.co/sAG0IBc2cl"
+            },
+            {
+              "display_url": "x.com/HosiRen1999/st…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/HosiRen1999/status/2061054696551583945",
+              "start": 94,
+              "url": "https://t.co/IB2tGTYrvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061847454342078676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2787,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061054696551583945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱就是说，来私聊质疑的，我也不一一回复啦~\n毕竟我这个人比较懒喵~\n咱直接进入资历（划掉）展示环节🥳🥳🥳\n药娘专买店，时代的印记之一了（） https://t.co/sAG0IBc2cl https://t.co/IB2tGTYrvl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n|od💊| |紫残| (已经尽量克制了😖)\n2026 年中考\n 欢迎互 fo 呀",
+        "id": "2061329105266831360",
+        "name": "溯音 ige🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329398780018688/tLrSswO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T07:27:32.000Z",
+        "description": "大龄天残MtF/HRT 2016.6/出生年月1999.9/猫系/抖S/不OD不割手手/IT爱好者/推特不常在线\nQQ2796455571，欢迎同类、小男娘和友跨来找我聊天~欢迎同类互fo/Expecto Patronum",
+        "id": "1517042285283667968",
+        "location": "heart",
+        "name": "星野 星涟 🍥🏳️‍⚧️十周年版",
+        "pinned_tweet_id": "2036041971844931874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049093045040328704/7eWlWHrJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 891,
+          "like_count": 986,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 525
+        },
+        "username": "HosiRen1999",
+        "verified": false
+      }
+    ]
+  }
+}

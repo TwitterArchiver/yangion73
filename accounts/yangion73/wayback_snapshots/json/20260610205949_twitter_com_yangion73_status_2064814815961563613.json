@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2064814815961563613",
+    "created_at": "2026-06-10T20:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T21:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064814815961563613"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064814815961563613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呜呜，现在去护士站拿应急药，护士说已经 4 点多了，没必要，让我回去躺着😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2064814815961563613",
+        "created_at": "2026-06-10T20:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064814815961563613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064814815961563613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜，现在去护士站拿应急药，护士说已经 4 点多了，没必要，让我回去躺着😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天   Q：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 51,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 79
+        },
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

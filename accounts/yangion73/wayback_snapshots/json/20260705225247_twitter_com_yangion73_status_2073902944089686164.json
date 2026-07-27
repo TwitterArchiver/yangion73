@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2073897724596949472",
+    "created_at": "2026-07-05T22:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T23:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073902944089686164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2032516808951902208",
+          "start": 0,
+          "username": "Jeffrey20011221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073902944089686164",
+    "in_reply_to_user_id": "2032516808951902208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073897724596949472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jeffrey20011221 我 12 号也要去找吕钦谕，号已经挂好了，但人还没出院😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073897716258672641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMf2_CYXkAEF1mH.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2073897724596949472",
+        "created_at": "2026-07-05T22:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073902944089686164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2032516808951902208",
+              "start": 0,
+              "username": "Jeffrey20011221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073902944089686164",
+        "in_reply_to_user_id": "2032516808951902208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073897724596949472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jeffrey20011221 我 12 号也要去找吕钦谕，号已经挂好了，但人还没出院😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073897716258672641"
+          ]
+        },
+        "author_id": "2032516808951902208",
+        "conversation_id": "2073897724596949472",
+        "created_at": "2026-07-05T22:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073897724596949472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/clYZwQ0vSf",
+              "end": 33,
+              "expanded_url": "https://x.com/Jeffrey20011221/status/2073897724596949472/photo/1",
+              "media_key": "3_2073897716258672641",
+              "start": 10,
+              "url": "https://t.co/clYZwQ0vSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073897724596949472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我好运吧…😂😂😂 https://t.co/clYZwQ0vSf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 155,
+          "like_count": 150,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T18:00:14.000Z",
+        "description": "@Jeff12212001 转生\nMTF in progress 🏳️‍⚧️\nAlways happy to make more trans friends.\nCollecting fountain pens 🖋️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "Jeff12212001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rheafeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rheafeng",
+                "start": 0,
+                "url": "https://t.co/UHHpuDe2ED"
+              }
+            ]
+          }
+        },
+        "id": "2032516808951902208",
+        "location": "Birmingham, England",
+        "name": "Jeff姐夫 (Rhea)",
+        "pinned_tweet_id": "2053223857318764933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052498282249650180/swsCu4G1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 592,
+          "like_count": 2561,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/UHHpuDe2ED",
+        "username": "Jeffrey20011221",
+        "verified": false
+      }
+    ]
+  }
+}

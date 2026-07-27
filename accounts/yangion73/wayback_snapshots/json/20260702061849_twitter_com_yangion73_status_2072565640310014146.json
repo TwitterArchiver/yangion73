@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2071531216394965167",
+    "created_at": "2026-07-02T06:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T07:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072565640310014146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1619329033082376194",
+          "start": 0,
+          "username": "AUKFPV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072565640310014146",
+    "in_reply_to_user_id": "1619329033082376194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071531216394965167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AUKFPV 可以教教我过去应该怎么沟通吗，我下周也要去了🙂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071531208614531072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-OqKaa0AAG6H9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2071531216394965167",
+        "created_at": "2026-07-02T06:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072565640310014146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1619329033082376194",
+              "start": 0,
+              "username": "AUKFPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072565640310014146",
+        "in_reply_to_user_id": "1619329033082376194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071531216394965167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AUKFPV 可以教教我过去应该怎么沟通吗，我下周也要去了🙂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071531208614531072"
+          ]
+        },
+        "author_id": "1619329033082376194",
+        "conversation_id": "2071531216394965167",
+        "created_at": "2026-06-29T09:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071531216394965167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rqgfoBoQsg",
+              "end": 75,
+              "expanded_url": "https://x.com/AUKFPV/status/2071531216394965167/photo/1",
+              "media_key": "3_2071531208614531072",
+              "start": 52,
+              "url": "https://t.co/rqgfoBoQsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071531216394965167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 25700,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "今天初诊疑似有点太过顺利了，总共聊了不到 10 分钟，陆 800 直接说下次找他学生直接给我开大证？😳 https://t.co/rqgfoBoQsg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 142,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T13:38:37.000Z",
+        "description": "海雀也可能会犯错。请核查重要信息。",
+        "id": "1619329033082376194",
+        "location": "Orison",
+        "name": "海雀",
+        "pinned_tweet_id": "2064746355600568798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033988140365725696/ofODJl8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 327,
+          "like_count": 7454,
+          "listed_count": 2,
+          "media_count": 455,
+          "tweet_count": 2540
+        },
+        "url": "",
+        "username": "AUKFPV",
+        "verified": true
+      }
+    ]
+  }
+}

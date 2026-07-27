@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2078648252933804360",
+    "created_at": "2026-07-19T01:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T02:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078648878354846078"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078648878354846078",
+    "in_reply_to_user_id": "2061329105266831360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078648252933804360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "陆铮说我抑郁严重，要先处理抑郁，然后才是性别问题，但最后给我下的是双向，就很..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2078648252933804360",
+        "created_at": "2026-07-19T01:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078648878354846078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078648878354846078",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078648252933804360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "陆铮说我抑郁严重，要先处理抑郁，然后才是性别问题，但最后给我下的是双向，就很..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2078648252933804360",
+        "created_at": "2026-07-19T01:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078648252933804360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078648252933804360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去上海精卫这一趟什么也没成，挂了三个号，吕钦谕，黄楠，陆铮，最后只拿到了黄楠的诊断，还是开不出诊断证明（规定要两个医生）\n陆老头的号是最亏的，挂号费 800，进去之后给我说了一顿，说我抑郁严重，然后又开了 800 块的药，最后也不给下诊断🙁🙁🙁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 202,
+          "like_count": 200,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 371
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2067417732715520071",
+    "created_at": "2026-06-18T01:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067417993064403152"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067417993064403152",
+    "in_reply_to_user_id": "2061329105266831360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067417732715520071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么办"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067417720015269888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDxdnPbsAApSdV.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067417720011010048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDxdnOasAA2KEv.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2067417732715520071",
+        "created_at": "2026-06-18T01:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067417993064403152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067417993064403152",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067417732715520071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067417720015269888",
+            "3_2067417720011010048"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067417732715520071",
+        "created_at": "2026-06-18T01:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067417732715520071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/warBhdwHVV",
+              "end": 39,
+              "expanded_url": "https://x.com/yangion73/status/2067417732715520071/photo/1",
+              "media_key": "3_2067417720015269888",
+              "start": 16,
+              "url": "https://t.co/warBhdwHVV"
+            },
+            {
+              "display_url": "pic.x.com/warBhdwHVV",
+              "end": 39,
+              "expanded_url": "https://x.com/yangion73/status/2067417732715520071/photo/1",
+              "media_key": "3_2067417720011010048",
+              "start": 16,
+              "url": "https://t.co/warBhdwHVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067417732715520071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买的 1，4 好像被扣下来了😭 https://t.co/warBhdwHVV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 76,
+          "like_count": 64,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

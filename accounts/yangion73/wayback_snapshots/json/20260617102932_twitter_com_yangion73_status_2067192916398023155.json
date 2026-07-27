@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2067190543298470319",
+    "created_at": "2026-06-17T10:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067192916398023155"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067192916398023155",
+    "in_reply_to_user_id": "2061329105266831360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067190543298470319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁给我提提建议"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067190533232181249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAi1mhawAE_mRD.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2067190543298470319",
+        "created_at": "2026-06-17T10:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067192916398023155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067192916398023155",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067190543298470319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁给我提提建议"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067190533232181249"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "conversation_id": "2067190543298470319",
+        "created_at": "2026-06-17T10:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067190543298470319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yImj8dz75O",
+              "end": 90,
+              "expanded_url": "https://x.com/yangion73/status/2067190543298470319/photo/1",
+              "media_key": "3_2067190533232181249",
+              "start": 67,
+              "url": "https://t.co/yImj8dz75O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067190543298470319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道要不要参加中考，感觉可以借着中考的名义出去，然后就不回医院了，好想回家，不然感觉短期内出不去了（医院的一堆住了近百天的青少年） https://t.co/yImj8dz75O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 74,
+          "like_count": 60,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 130
+        },
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

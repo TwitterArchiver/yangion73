@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2069012960996135290",
+    "created_at": "2026-06-22T11:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069022396015923297"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069022396015923297",
+    "in_reply_to_user_id": "2061329105266831360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069012960996135290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在已经镇静下来了😶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069012950774640640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLacUQ6a8AAzV-B.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069012950611079168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLacUQTbMAA9Y40.jpg",
+        "width": 1520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2069012960996135290",
+        "created_at": "2026-06-22T11:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069022396015923297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069022396015923297",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069012960996135290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在已经镇静下来了😶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069012950774640640",
+            "3_2069012950611079168"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "conversation_id": "2069012960996135290",
+        "created_at": "2026-06-22T11:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069012960996135290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHTasUtSIH",
+              "end": 76,
+              "expanded_url": "https://x.com/yangion73/status/2069012960996135290/photo/1",
+              "media_key": "3_2069012950774640640",
+              "start": 53,
+              "url": "https://t.co/aHTasUtSIH"
+            },
+            {
+              "display_url": "pic.x.com/aHTasUtSIH",
+              "end": 76,
+              "expanded_url": "https://x.com/yangion73/status/2069012960996135290/photo/1",
+              "media_key": "3_2069012950611079168",
+              "start": 53,
+              "url": "https://t.co/aHTasUtSIH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069012960996135290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚又发狂了，一直哭，咬自己，两个护士上来就摁住我，强行投喂一颗阿普😞\np1 是咬的，p2 是用东西刮的 https://t.co/aHTasUtSIH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 94,
+          "like_count": 79,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

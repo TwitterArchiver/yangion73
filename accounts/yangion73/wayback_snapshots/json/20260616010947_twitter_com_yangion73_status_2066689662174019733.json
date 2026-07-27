@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066689654657839104",
+        "3_2066689653370208256"
+      ]
+    },
+    "author_id": "2061329105266831360",
+    "conversation_id": "2066689662174019733",
+    "created_at": "2026-06-16T01:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T02:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066689662174019733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RwJ1nOEice",
+          "end": 63,
+          "expanded_url": "https://x.com/yangion73/status/2066689662174019733/photo/1",
+          "media_key": "3_2066689654657839104",
+          "start": 40,
+          "url": "https://t.co/RwJ1nOEice"
+        },
+        {
+          "display_url": "pic.x.com/RwJ1nOEice",
+          "end": 63,
+          "expanded_url": "https://x.com/yangion73/status/2066689662174019733/photo/1",
+          "media_key": "3_2066689653370208256",
+          "start": 40,
+          "url": "https://t.co/RwJ1nOEice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066689662174019733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也是拍到军团查房了（偷拍），好多人，吓哭了\n补：p2 是敲头的时候看见查别的房 https://t.co/RwJ1nOEice"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066689654657839104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5bSoba8AAhHd3.jpg",
+        "width": 1291
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066689653370208256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5bSjobQAADPP3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066689654657839104",
+            "3_2066689653370208256"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "conversation_id": "2066689662174019733",
+        "created_at": "2026-06-16T01:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066689662174019733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RwJ1nOEice",
+              "end": 63,
+              "expanded_url": "https://x.com/yangion73/status/2066689662174019733/photo/1",
+              "media_key": "3_2066689654657839104",
+              "start": 40,
+              "url": "https://t.co/RwJ1nOEice"
+            },
+            {
+              "display_url": "pic.x.com/RwJ1nOEice",
+              "end": 63,
+              "expanded_url": "https://x.com/yangion73/status/2066689662174019733/photo/1",
+              "media_key": "3_2066689653370208256",
+              "start": 40,
+              "url": "https://t.co/RwJ1nOEice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066689662174019733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是拍到军团查房了（偷拍），好多人，吓哭了\n补：p2 是敲头的时候看见查别的房 https://t.co/RwJ1nOEice"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 68,
+          "like_count": 53,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 118
+        },
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

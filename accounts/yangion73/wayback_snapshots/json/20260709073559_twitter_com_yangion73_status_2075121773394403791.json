@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2073674233755111656",
+    "created_at": "2026-07-09T07:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075121773394403791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843618783937937408",
+          "start": 0,
+          "username": "IllusoryKyoka"
+        },
+        {
+          "end": 22,
+          "id": "1546431985086009344",
+          "start": 15,
+          "username": "NL8526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075121773394403791",
+    "in_reply_to_user_id": "1843618783937937408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073674233755111656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IllusoryKyoka @NL8526 羡慕 w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1728,
+        "media_key": "3_2073674229451751426",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcruZJagAITUSz.jpg",
+        "width": 1519
+      },
+      {
+        "height": 1592,
+        "media_key": "3_2073674230278082560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcrucObUAAbiAx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2073674233755111656",
+        "created_at": "2026-07-09T07:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075121773394403791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843618783937937408",
+              "start": 0,
+              "username": "IllusoryKyoka"
+            },
+            {
+              "end": 22,
+              "id": "1546431985086009344",
+              "start": 15,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075121773394403791",
+        "in_reply_to_user_id": "1843618783937937408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073674233755111656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IllusoryKyoka @NL8526 羡慕 w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073674229451751426",
+            "3_2073674230278082560"
+          ]
+        },
+        "author_id": "1843618783937937408",
+        "conversation_id": "2073674233755111656",
+        "created_at": "2026-07-05T07:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073674233755111656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ByArALTdk",
+              "end": 43,
+              "expanded_url": "https://x.com/IllusoryKyoka/status/2073674233755111656/photo/1",
+              "media_key": "3_2073674229451751426",
+              "start": 20,
+              "url": "https://t.co/4ByArALTdk"
+            },
+            {
+              "display_url": "pic.x.com/4ByArALTdk",
+              "end": 43,
+              "expanded_url": "https://x.com/IllusoryKyoka/status/2073674233755111656/photo/1",
+              "media_key": "3_2073674230278082560",
+              "start": 20,
+              "url": "https://t.co/4ByArALTdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073674233755111656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 399,
+          "impression_count": 548955,
+          "like_count": 2479,
+          "quote_count": 3,
+          "reply_count": 451,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "只能说父母两边的家族大🐻基因开始发力了 https://t.co/4ByArALTdk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n续上糖了(开心☺️)\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 168,
+          "like_count": 171,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 325
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T11:45:55.000Z",
+        "description": "ISFJ-A 坚实守护者🛡️/产地:Canton/深柜/174cm/无证含糖/经济独立/年龄毕业党/车房⭕/原生解绑/HRT:26.2.1/心理健康/不烟不酒/地理-英语-历史-Steam",
+        "id": "1843618783937937408",
+        "location": "北海道 小樽市",
+        "name": "鏡花Kyoka🍥",
+        "pinned_tweet_id": "2051355418874781954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047022672824107008/xKp7IRw4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 204,
+          "like_count": 41,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "IllusoryKyoka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3474,
+          "following_count": 919,
+          "like_count": 20917,
+          "listed_count": 6,
+          "media_count": 232,
+          "tweet_count": 920
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

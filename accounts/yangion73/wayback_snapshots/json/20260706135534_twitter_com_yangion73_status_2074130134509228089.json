@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2074130134509228089",
+    "created_at": "2026-07-06T13:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074130134509228089"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074130134509228089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉住院也没有什么改善，待在里面只能感觉到无聊，也不知道接下来要做什么😔，再次接触到外界感觉人都变得懵懵的，有点恍惚，在进医院之前我就基本没有社交，关了一个月更是直接社交能力归零了😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2074130134509228089",
+        "created_at": "2026-07-06T13:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074130134509228089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074130134509228089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉住院也没有什么改善，待在里面只能感觉到无聊，也不知道接下来要做什么😔，再次接触到外界感觉人都变得懵懵的，有点恍惚，在进医院之前我就基本没有社交，关了一个月更是直接社交能力归零了😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n续上糖了(开心☺️)\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 159,
+          "like_count": 157,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

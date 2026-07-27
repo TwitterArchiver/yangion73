@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2069972671417462947",
+    "created_at": "2026-06-25T08:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070066948466233443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1860552199585300482",
+          "start": 0,
+          "username": "Seven_Eraya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070066948466233443",
+    "in_reply_to_user_id": "1860552199585300482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069972671417462947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seven_Eraya 摸摸你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2069972659740487680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoFKraaMAA3Phe.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2069972671417462947",
+        "created_at": "2026-06-25T08:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070066948466233443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860552199585300482",
+              "start": 0,
+              "username": "Seven_Eraya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070066948466233443",
+        "in_reply_to_user_id": "1860552199585300482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069972671417462947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seven_Eraya 摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069972659740487680"
+          ]
+        },
+        "author_id": "1860552199585300482",
+        "conversation_id": "2069972671417462947",
+        "created_at": "2026-06-25T02:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069972671417462947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yjUOUgjNEY",
+              "end": 30,
+              "expanded_url": "https://x.com/Seven_Eraya/status/2069972671417462947/photo/1",
+              "media_key": "3_2069972659740487680",
+              "start": 7,
+              "url": "https://t.co/yjUOUgjNEY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069972671417462947",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Bingo～ https://t.co/yjUOUgjNEY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 99,
+          "like_count": 92,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "疑似有证含糖🍥|边缘性人格特质|非典型强迫症|重度抑郁|疑似有证26.5.25|Hrt Start26.3.7|生产日期12.1.7|已炸柜26.5.9|",
+        "id": "1860552199585300482",
+        "name": "Eraya🍥_",
+        "pinned_tweet_id": "2065890411256914308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 270,
+          "like_count": 852,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "Seven_Eraya",
+        "verified": false
+      }
+    ]
+  }
+}

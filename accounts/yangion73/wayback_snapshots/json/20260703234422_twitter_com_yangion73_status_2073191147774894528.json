@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2072998000960663629",
+    "created_at": "2026-07-03T23:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T00:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073191147774894528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2022208955917979648",
+          "start": 0,
+          "username": "Ak1r4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073191147774894528",
+    "in_reply_to_user_id": "2022208955917979648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072998000960663629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1r4i 抱抱尼喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2072998000960663629",
+        "created_at": "2026-07-03T23:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073191147774894528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2022208955917979648",
+              "start": 0,
+              "username": "Ak1r4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073191147774894528",
+        "in_reply_to_user_id": "2022208955917979648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072998000960663629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1r4i 抱抱尼喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022208955917979648",
+        "conversation_id": "2072998000960663629",
+        "created_at": "2026-07-03T10:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072998000960663629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072998000960663629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 557,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有沒有人能抱抱我🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 153,
+          "like_count": 140,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T07:19:33.000Z",
+        "description": "這麼大的世界卻無我的立錐之地\nMtf 无证含糖🍥/OD/休学中/毛绒玩具重度依赖/讲不来话的笨蛋。。\n求求互fo喵🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ak1r4i",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ak1r4i",
+                "start": 0,
+                "url": "https://t.co/d4zjW5b8fM"
+              }
+            ]
+          }
+        },
+        "id": "2022208955917979648",
+        "location": "上海",
+        "name": "惺🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071134075751211008/RPLFxoUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 99,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/d4zjW5b8fM",
+        "username": "Ak1r4i",
+        "verified": false
+      }
+    ]
+  }
+}

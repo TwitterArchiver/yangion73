@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2062841101028135050",
+    "created_at": "2026-06-07T13:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063607043383279720"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063607043383279720",
+    "in_reply_to_user_id": "2061329105266831360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062841101028135050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062841088545828864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCvCmbasAA2Z-U.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2062841101028135050",
+        "created_at": "2026-06-07T13:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063607043383279720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063607043383279720",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062841101028135050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062841088545828864"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "conversation_id": "2062841101028135050",
+        "created_at": "2026-06-05T10:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062841101028135050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uo96vB7F00",
+              "end": 36,
+              "expanded_url": "https://x.com/yangion73/status/2062841101028135050/photo/1",
+              "media_key": "3_2062841088545828864",
+              "start": 13,
+              "url": "https://t.co/Uo96vB7F00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062841101028135050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有房间啦(很乱，别在意) https://t.co/Uo96vB7F00"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063247491408232448/p3uJ_isw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 38,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 42
+        },
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

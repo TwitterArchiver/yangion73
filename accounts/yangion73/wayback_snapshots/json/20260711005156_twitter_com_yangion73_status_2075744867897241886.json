@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2075744867897241886",
+    "created_at": "2026-07-11T00:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T01:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075744867897241886"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075744867897241886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好紧张，明天就要去上海精卫了，完全不知道过去要怎么说，万一连小证都没开出来这次就白跑这么远了🥲\n而且我还没成年，外表也不够 pass， 大概率吕姐也不会开，白跑这么一趟真的不甘心怎么办啊😭\n有没有去过的同类教教我要怎么说呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2075744867897241886",
+        "created_at": "2026-07-11T00:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T01:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075744867897241886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075744867897241886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好紧张，明天就要去上海精卫了，完全不知道过去要怎么说，万一连小证都没开出来这次就白跑这么远了🥲\n而且我还没成年，外表也不够 pass， 大概率吕姐也不会开，白跑这么一趟真的不甘心怎么办啊😭\n有没有去过的同类教教我要怎么说呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n续上糖了(开心☺️)\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 177,
+          "like_count": 178,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 330
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

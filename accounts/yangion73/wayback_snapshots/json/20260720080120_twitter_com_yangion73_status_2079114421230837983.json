@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2079114421230837983",
+    "created_at": "2026-07-20T08:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T09:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079114421230837983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yu_xin1225/sta…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/yu_xin1225/status/2079088482736361889",
+          "start": 82,
+          "url": "https://t.co/7Z8qKxprIq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079114421230837983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079088482736361889",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "xyn不能自杀喔，不然每天抱抱的鲨鲨会没有家的。。 然后被父母丢进阴冷潮湿臭臭的垃圾桶。鲨鲨会伤心的，会怀念主人的抱抱的。多抱抱鲨鲨，不要让可爱的鲨鲨无家可归呢。 https://t.co/7Z8qKxprIq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2079114421230837983",
+        "created_at": "2026-07-20T08:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079114421230837983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yu_xin1225/sta…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/yu_xin1225/status/2079088482736361889",
+              "start": 82,
+              "url": "https://t.co/7Z8qKxprIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079114421230837983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079088482736361889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xyn不能自杀喔，不然每天抱抱的鲨鲨会没有家的。。 然后被父母丢进阴冷潮湿臭臭的垃圾桶。鲨鲨会伤心的，会怀念主人的抱抱的。多抱抱鲨鲨，不要让可爱的鲨鲨无家可归呢。 https://t.co/7Z8qKxprIq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058152524918755328",
+        "conversation_id": "2079088482736361889",
+        "created_at": "2026-07-20T06:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079088482736361889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/666666666ZT/st…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/666666666ZT/status/2079031593755394125",
+              "start": 82,
+              "url": "https://t.co/SrHlsmzHv5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079088482736361889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 148,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079031593755394125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xyn不能自杀喔，不然每天抱抱的鲨鲨会没有家的。。 然后被父母丢进阴冷潮湿臭臭的垃圾桶。鲨鲨会伤心的，会怀念主人的抱抱的。多抱抱鲨鲨，不要让可爱的鲨鲨无家可归呢。 https://t.co/SrHlsmzHv5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 214,
+          "like_count": 213,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T11:46:49.000Z",
+        "description": "出厂日期2010.12.25\n应届高中牲喵\nISFJ PTSD MtF🏳️‍⚧️\nHRT(2026.07.04)\n无证含糖(还未出柜)\n同类互fo喵~🍥",
+        "id": "2058152524918755328",
+        "location": "浙江省 温州市 ",
+        "name": "楠楠.🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071244524043845768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077816376794968065/lqZI2Vp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 380,
+          "like_count": 3728,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "Yu_Xin1225",
+        "verified": true
+      }
+    ]
+  }
+}

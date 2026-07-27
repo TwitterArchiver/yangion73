@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2061860822788587907",
+    "created_at": "2026-06-03T12:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062147606604841395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2056410726097690624",
+          "start": 0,
+          "username": "xiuli202641791"
+        },
+        {
+          "end": 24,
+          "id": "1833491107503869956",
+          "start": 16,
+          "username": "lyjjlch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062147606604841395",
+    "in_reply_to_user_id": "2056410726097690624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062027116531666968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiuli202641791 @lyjjlch 胶囊外壳可能裹不上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2061860822788587907",
+        "created_at": "2026-06-03T12:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062147606604841395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2056410726097690624",
+              "start": 0,
+              "username": "xiuli202641791"
+            },
+            {
+              "end": 24,
+              "id": "1833491107503869956",
+              "start": 16,
+              "username": "lyjjlch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062147606604841395",
+        "in_reply_to_user_id": "2056410726097690624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062027116531666968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiuli202641791 @lyjjlch 胶囊外壳可能裹不上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056410726097690624",
+        "conversation_id": "2061860822788587907",
+        "created_at": "2026-06-03T04:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062027116531666968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1833491107503869956",
+              "start": 0,
+              "username": "lyjjlch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062027116531666968",
+        "in_reply_to_user_id": "1833491107503869956",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061860822788587907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyjjlch 胶囊外面能不能裹一大层白砂糖awa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n 欢迎互 fo 呀\n2026中考",
+        "id": "2061329105266831360",
+        "name": "溯音 ige🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329398780018688/tLrSswO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 34,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T16:25:12.000Z",
+        "description": "🍥|友跨|Femboy|08.11.1|战争雷霆手游豹2-PL车长|专揍BMPT|@lyjjlch的对象喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lyjjlch"
+              }
+            ]
+          }
+        },
+        "id": "2056410726097690624",
+        "location": "China",
+        "name": "xiuli🍥2026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059669756899446784/dl0E66Ff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 8,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "xiuli202641791",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T13:02:09.000Z",
+        "description": "Open-source software developer\nFood lover\n我永远深爱着我的祖国♥️\n关爱心理健康，拒绝OD/自残/兽药/自切/自杀！\n让我们拥抱更美好的明天\n对药物感兴趣但仅限理论！\n自杀干预初学者\n混沌善良\n感性\n喜欢贴贴，贴贴好耶！\n另外，这是我对象！\n@xiuli202641791",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 142,
+                "username": "xiuli202641791"
+              }
+            ]
+          }
+        },
+        "id": "1833491107503869956",
+        "name": "某人",
+        "pinned_tweet_id": "2059686768765747322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010216087665967104/XmGGooWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 82,
+          "like_count": 58,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 209
+        },
+        "username": "lyjjlch",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2065299533354111294",
+    "created_at": "2026-06-12T13:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065432068218302485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2036431003158454277",
+          "start": 0,
+          "username": "realimmort"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065432068218302485",
+    "in_reply_to_user_id": "2036431003158454277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065413798362808426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realimmort 可以哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2065299533354111294",
+        "created_at": "2026-06-12T13:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065432068218302485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2036431003158454277",
+              "start": 0,
+              "username": "realimmort"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065432068218302485",
+        "in_reply_to_user_id": "2036431003158454277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065413798362808426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realimmort 可以哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036431003158454277",
+        "conversation_id": "2065299533354111294",
+        "created_at": "2026-06-12T12:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065413798362808426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2061329105266831360",
+              "start": 0,
+              "username": "yangion73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065413798362808426",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065299533354111294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangion73 哈哈，互fo不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 60,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 98
+        },
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T13:13:04.000Z",
+        "description": "双相，深柜无证🍬木桶饭可互佛喵🚪100，纯绿,文",
+        "id": "2036431003158454277",
+        "location": "天国寰宇",
+        "name": "Immort🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059998339853328844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048768609061851136/YVu9Mxau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 35,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 434
+        },
+        "username": "realimmort",
+        "verified": false
+      }
+    ]
+  }
+}

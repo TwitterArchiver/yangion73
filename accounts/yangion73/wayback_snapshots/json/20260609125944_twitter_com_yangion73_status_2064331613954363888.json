@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2064331613954363888",
+    "created_at": "2026-06-09T12:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064331613954363888"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064331613954363888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的能好起来吗，感觉来了精卫也没有改变什么，甚至害得糖也断了，感觉越来越焦虑，害怕返雄，还连累家人来这里陪护我，纯属是浪费时间，感觉自己好没用，只会给他们添麻烦，每天都过得浑浑噩噩，没有意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2064331613954363888",
+        "created_at": "2026-06-09T12:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064331613954363888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064331613954363888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的能好起来吗，感觉来了精卫也没有改变什么，甚至害得糖也断了，感觉越来越焦虑，害怕返雄，还连累家人来这里陪护我，纯属是浪费时间，感觉自己好没用，只会给他们添麻烦，每天都过得浑浑噩噩，没有意义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天   Q：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 46,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 66
+        },
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

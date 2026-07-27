@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066133157901156352"
+      ]
+    },
+    "author_id": "2061329105266831360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2066129091104059588",
+    "created_at": "2026-06-14T12:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066133169532026955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055095022425722880",
+          "start": 0,
+          "username": "UnkMtX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KfT3be4T03",
+          "end": 40,
+          "expanded_url": "https://x.com/yangion73/status/2066133169532026955/photo/1",
+          "media_key": "3_2066133157901156352",
+          "start": 17,
+          "url": "https://t.co/KfT3be4T03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066133169532026955",
+    "in_reply_to_user_id": "2055095022425722880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066129091104059588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkMtX 我直接给脱下来了 https://t.co/KfT3be4T03"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066133157901156352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxhKQdawAAWX2H.jpg",
+        "width": 1536
+      },
+      {
+        "height": 3058,
+        "media_key": "3_2066128643680882688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxdDfrb0AApVKC.jpg",
+        "width": 4077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066133157901156352"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066129091104059588",
+        "created_at": "2026-06-14T12:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066133169532026955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfT3be4T03",
+              "end": 40,
+              "expanded_url": "https://x.com/yangion73/status/2066133169532026955/photo/1",
+              "media_key": "3_2066133157901156352",
+              "start": 17,
+              "url": "https://t.co/KfT3be4T03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066133169532026955",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066129091104059588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkMtX 我直接给脱下来了 https://t.co/KfT3be4T03"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066128643680882688"
+          ]
+        },
+        "author_id": "2055095022425722880",
+        "conversation_id": "2066129091104059588",
+        "created_at": "2026-06-14T12:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066129091104059588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cgKyOIDVwZ",
+              "end": 50,
+              "expanded_url": "https://x.com/UnkMtX/status/2066129091104059588/photo/1",
+              "media_key": "3_2066128643680882688",
+              "start": 27,
+              "url": "https://t.co/cgKyOIDVwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066129091104059588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "手腕带刚不小心被我扯断了😇，叫护士给我打印了个新的🥲 https://t.co/cgKyOIDVwZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 64,
+          "like_count": 48,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 107
+        },
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中😭不发帖就是没手机了😭|永远怀念@UnkXyn|MtX|Hrt🍥01.28.2026，断糖06.06.2026|家长反对党+年龄党|生产日期11.13.2011|暂时无法Od💊，普瑞巴林我会想你的😭|对象@Lvmaosamaovo|159cm53kg|INFP-T，重度社恐|休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "name": "3.𝙐𝙣𝙠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 985,
+          "like_count": 1963,
+          "listed_count": 15,
+          "media_count": 51,
+          "tweet_count": 416
+        },
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

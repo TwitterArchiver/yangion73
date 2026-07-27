@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2064904384656633892",
+    "created_at": "2026-06-11T02:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T03:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064904384656633892"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064904384656633892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉我的人生已经废掉了，对一切都失去希望，学不进去任何东西，人际交往能力基本断绝，没有朋友，让家人失望，因为吃糖把自己的身体搞废了，心理也没有变好多少，在生日（5.17）自杀又没死成，还遭到家人的指责，为什么会变成这样啊，为什么我不能做一个真正的女孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2064904384656633892",
+        "created_at": "2026-06-11T02:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064904384656633892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064904384656633892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我的人生已经废掉了，对一切都失去希望，学不进去任何东西，人际交往能力基本断绝，没有朋友，让家人失望，因为吃糖把自己的身体搞废了，心理也没有变好多少，在生日（5.17）自杀又没死成，还遭到家人的指责，为什么会变成这样啊，为什么我不能做一个真正的女孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天   Q：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 52,
+          "like_count": 30,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 81
+        },
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

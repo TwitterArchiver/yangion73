@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2067950188489302307",
+    "created_at": "2026-06-19T12:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067950188489302307"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 49,
+          "tag": "现代诗"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "OD"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1605538501705043968",
+          "start": 3,
+          "username": "yangyan_huntun"
+        },
+        {
+          "end": 48,
+          "id": "1680367973884735488",
+          "start": 35,
+          "username": "imgyeong8077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067950188489302307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058916183760597246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangyan_huntun: 羊言其实非常爱写诗，求点赞喵\n@imgyeong8077\n#现代诗 #OD\n浮生-OD\n我说我想睡一会儿，\n像所有人一样，\n把疲劳折叠进黄昏，\n把明天留给明天，\n可夜晚与我作对了啊！\n可药片落进掌心时，\n那些白色的小东西\n比星星更像星星。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2067950188489302307",
+        "created_at": "2026-06-19T12:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067950188489302307"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "现代诗"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "OD"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1605538501705043968",
+              "start": 3,
+              "username": "yangyan_huntun"
+            },
+            {
+              "end": 48,
+              "id": "1680367973884735488",
+              "start": 35,
+              "username": "imgyeong8077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067950188489302307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058916183760597246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yangyan_huntun: 羊言其实非常爱写诗，求点赞喵\n@imgyeong8077\n#现代诗 #OD\n浮生-OD\n我说我想睡一会儿，\n像所有人一样，\n把疲劳折叠进黄昏，\n把明天留给明天，\n可夜晚与我作对了啊！\n可药片落进掌心时，\n那些白色的小东西\n比星星更像星星。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605538501705043968",
+        "conversation_id": "2058916183760597246",
+        "created_at": "2026-05-25T14:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058916183760597246"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "现代诗"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "OD"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1680367973884735488",
+              "start": 15,
+              "username": "imgyeong8077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058916183760597246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 29,
+                "tag": "现代诗"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "OD"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 28,
+                "id": "1680367973884735488",
+                "start": 15,
+                "username": "imgyeong8077"
+              }
+            ]
+          },
+          "text": "羊言其实非常爱写诗，求点赞喵\n@imgyeong8077\n#现代诗 #OD\n浮生-OD\n我说我想睡一会儿，\n像所有人一样，\n把疲劳折叠进黄昏，\n把明天留给明天，\n可夜晚与我作对了啊！\n可药片落进掌心时，\n那些白色的小东西\n比星星更像星星。\n\n用魔爪送服它们，\n像送走一些，\n已经腐烂太久的世界。\n\n第一粒负责安静，\n第五粒负责遗忘，\n第二十粒开始让我觉得，\n世界终于肯放低身段！\n我才是主！\n\n眼睛吮吸起了光线，\n窗外的高楼还亮着。\n外卖骑手压弯了整条街道的风，\n便利店玻璃映出，\n凌晨一点半，\n浮肿而困倦的人群，\n她们挂壁\n提着啤酒、烟盒、盐野义、白兔、pr80……\n是“允许短暂的活着”。\n\n我想不起了，\n妈？\n风扇摇头，\n平板里放着已经不在乎名字的番剧，\n不规则的红色月亮也不曾触碰，\n窗台上的驱蚊液，\n一点点奉献出自己。\n\n我以为，\n第一个理想“退休”是现实的，\n人长大以后，\n就不会再疼了，\n没人会再打我了，\n想来是给我逗笑了，\n果真初生牛犊不怕虎！\n\n巴掌是我自己扇到脸上的，\n耳膜可以作证。\n\n疼痛开始拥有更多名字：\n焦虑，\n失眠，\n惊醒，\n躯体化，\n心悸，\n解离，\n以及深夜十二点后，\n突然很想从世界上消失，\n成为比星星还要星星的流星。\n\n咻——\n\n药效开始漫上来了，\n我觉得自己的骨头\n像被海水泡软。\n灯光变远，\n呼吸抑制，\n胃袋里那些翻涌许久的情绪，\n终于被按回深处。\n\n我躺着，\n听见空调外机低沉地嗡鸣，\n像某种巨大的机械心脏\n悬挂在我的背面。\n\n原来那么多人拼命活着，\n不是因为热爱明天，\n而是因为今晚\n还没有彻底结束。\n\n于是我向夜索取起了白天\n\n太多人了，\n把药片咽成一种仪式。\n我也是，\n我成了一个祭司。\n\n坐在出租屋、宿舍、医院、\n或者凌晨营业的麦当劳角落，\n低头拆开铝箔板时，\n没人会回复我，\n但那又怎样？\n我在通神啊！\n\n有人想睡觉，\n有人想停下脑子，\n有人只是想让胸口\n不要再那么疼。\n\n乱了！乱了！\n可药物不是船...\n是泰坦尼克号漂浮的铁板。\n\n我抱着它，\n漂过凌晨的海面，\n漂过朋友圈里别人明亮的人生，\n漂过那些，\n“多运动，多开朗些”的劝慰，莫不是你在逗我？\n再漂过医院里，\n滴答作响的电疗。\n\n有时候我也会想：\n\n如果人类的心脏，\n真的像机器一样，\n坏掉的部分，\n是不是换一换就好了？\n是那战锤40k的机械神甫。\n\n如果灵魂也能缝补，\n是不是就不会有人\n在吞下第不知道多少粒药以后\n还睁着眼睛看天花板。\n不，\n当然有！\n享受药效，自然要睁眼吃掉星光。\n\n天快亮的时候，\n我终于开始困了。\n\n远处有早餐车升起蒸汽，\n豆浆机轰鸣，\n扫地车缓慢经过空荡的街。\n\n几个刚下夜班的人\n蹲在路边抽烟，\n疲惫得像被城市啃剩的骨头。\n\n而太阳正在升起。\n\n它依旧那么庞大、\n滚烫、\n不讲道理。\n\n照亮高楼，\n照亮垃圾桶，\n照亮医院、药盒、\n照亮每一个\n曾经想消失的人。\n\n我闭上眼。\n药效、晨光、困意与活着\n终于在这一刻……\n\n你想什么呢？\n当然达不成和解。\n\n——羊言"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3904,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "羊言其实非常爱写诗，求点赞喵\n@imgyeong8077\n#现代诗 #OD\n浮生-OD\n我说我想睡一会儿，\n像所有人一样，\n把疲劳折叠进黄昏，\n把明天留给明天，\n可夜晚与我作对了啊！\n可药片落进掌心时，\n那些白色的小东西\n比星星更像星星。\n\n用魔爪送服它们，\n像送走一些，\n已经腐烂太久的世界。\n\n第一粒负责安静，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 84,
+          "like_count": 70,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T12:19:56.000Z",
+        "description": "INTP | 焦虑抑郁已确诊 | 喜扩列  | 06/185 |  bi男  |  可闲聊➕q，私聊找我要号，内容任意 | 细胞神曲 重返未来1999 起点精神病院 | oder | 术力口\n| 可以互fo私信我 | 我真的挺喜欢聊天的 | 什么都可以 |         | 接推广 |\n下面是匿名提问，随便问捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangyan_huntun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangyan_huntun",
+                "start": 0,
+                "url": "https://t.co/TOedcgnzZn"
+              }
+            ]
+          }
+        },
+        "id": "1605538501705043968",
+        "location": "重塑之手",
+        "name": "羊🐏言",
+        "pinned_tweet_id": "1804899894827884739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051899326495137792/yEFNeX0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 645,
+          "like_count": 4914,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 963
+        },
+        "url": "https://t.co/TOedcgnzZn",
+        "username": "yangyan_huntun",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-16T00:05:29.000Z",
+        "description": "小璟/6P97｜08｜双性恋｜我🔪🚬🍺💊LGBTQ+友好 \n喜欢体验新鲜事物 什么都往这里扔\n查看主页喜欢你就我就fo你 乖宝宝们请和我互fo^o^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%92%9F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F0.o",
+                "start": 0,
+                "url": "https://t.co/KSf6miGkl9"
+              }
+            ]
+          }
+        },
+        "id": "1680367973884735488",
+        "name": "璟璟璟璟璟璟0.o",
+        "pinned_tweet_id": "2040823390152651093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043407189533237248/1sRY0hb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 173,
+          "like_count": 1526,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/KSf6miGkl9",
+        "username": "imgyeong8077",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2073908540071362993",
+    "created_at": "2026-07-05T23:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T00:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073908540071362993"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073908540071362993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最后一次电休克😌\n医生说做完如果状态好下午就能出院了🙂🙂\n现在我不得不吐槽一下厦门仙岳这神经的制度\n拿药的时候要患者的手腕带，但是药不能交给患者本人，一定要家属拿药，而且一天要三回\n这就导致拿药时患者得把手腕带脱下来，就很容易丢\n而电休克的时候又要求患者本人带着手腕带，很矛盾的制度😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2073908540071362993",
+        "created_at": "2026-07-05T23:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T00:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073908540071362993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073908540071362993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后一次电休克😌\n医生说做完如果状态好下午就能出院了🙂🙂\n现在我不得不吐槽一下厦门仙岳这神经的制度\n拿药的时候要患者的手腕带，但是药不能交给患者本人，一定要家属拿药，而且一天要三回\n这就导致拿药时患者得把手腕带脱下来，就很容易丢\n而电休克的时候又要求患者本人带着手腕带，很矛盾的制度😵‍💫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 156,
+          "like_count": 150,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2071580598192476389",
+    "created_at": "2026-07-01T10:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072265598009041241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "886641021588611072",
+          "start": 0,
+          "username": "QY404MTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072265598009041241",
+    "in_reply_to_user_id": "886641021588611072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071580598192476389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QY404MTF 抱抱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2071580489924972545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-7etmbkAExWb6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2071580489585242112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-7esVbsAABrZT.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2071580598192476389",
+        "created_at": "2026-07-01T10:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072265598009041241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886641021588611072",
+              "start": 0,
+              "username": "QY404MTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072265598009041241",
+        "in_reply_to_user_id": "886641021588611072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071580598192476389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QY404MTF 抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071580489924972545",
+            "3_2071580489585242112"
+          ]
+        },
+        "author_id": "886641021588611072",
+        "conversation_id": "2071580598192476389",
+        "created_at": "2026-06-29T13:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071580598192476389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqSECyU2Qq",
+              "end": 39,
+              "expanded_url": "https://x.com/QY404MTF/status/2071580598192476389/photo/1",
+              "media_key": "3_2071580489924972545",
+              "start": 16,
+              "url": "https://t.co/fqSECyU2Qq"
+            },
+            {
+              "display_url": "pic.x.com/fqSECyU2Qq",
+              "end": 39,
+              "expanded_url": "https://x.com/QY404MTF/status/2071580598192476389/photo/1",
+              "media_key": "3_2071580489585242112",
+              "start": 16,
+              "url": "https://t.co/fqSECyU2Qq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071580598192476389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 11581,
+          "like_count": 149,
+          "quote_count": 2,
+          "reply_count": 90,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "堂堂复活了，没死（洗胃好难受） https://t.co/fqSECyU2Qq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 134,
+          "like_count": 126,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-16T17:37:47.000Z",
+        "description": "MTF/X｜长在春风里，活在药效里｜普瑞巴林重度依赖｜odzc｜生产日期：2008.11.25｜hrt起始日：2025.5.31｜常驻长春，偶尔济南｜戒断中｜割腕吞药复活ing",
+        "id": "886641021588611072",
+        "name": "千夜404🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071580598192476389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071894145417793537/aj-S9-O2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 51,
+          "like_count": 158,
+          "listed_count": 23,
+          "media_count": 18,
+          "tweet_count": 1234
+        },
+        "url": "",
+        "username": "QY404MTF",
+        "verified": false
+      }
+    ]
+  }
+}

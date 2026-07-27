@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2067190788061376852",
+    "created_at": "2026-06-17T10:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067190788061376852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/unkmtx/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/unkmtx/status/2067159124761293133",
+          "start": 8,
+          "url": "https://t.co/oRkFh1oaZJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067190788061376852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067159124761293133",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要不我也出逃🧐 https://t.co/oRkFh1oaZJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2067190788061376852",
+        "created_at": "2026-06-17T10:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067190788061376852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/unkmtx/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/unkmtx/status/2067159124761293133",
+              "start": 8,
+              "url": "https://t.co/oRkFh1oaZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067190788061376852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067159124761293133",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要不我也出逃🧐 https://t.co/oRkFh1oaZJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055095022425722880",
+        "conversation_id": "2067159124761293133",
+        "created_at": "2026-06-17T08:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067159124761293133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UnkMtX/status/…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/UnkMtX/status/2067140308148900159",
+              "start": 48,
+              "url": "https://t.co/r2gtHbfaiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067159124761293133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 600,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067140308148900159",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我现在好像又能去考了😄 我得想办法考完后趁机逃跑😠！但我只有几个小时的时间.........😰 https://t.co/r2gtHbfaiU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 74,
+          "like_count": 59,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中😭不发帖就是没手机了😭|永远怀念@UnkXyn|mtx|hrt🍥01.28.2026，断糖06.06.2026|家长反对党+年龄党|生产日期11.13.2011|暂时无法Od💊，普瑞巴林我会想你的😭|对象@Lvmaosamaovo|159cm53kg|INFP-T，重度社恐|休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "location": "武汉市精神卫生中心(二七院区)",
+        "name": "𝟯.𝗨𝗻𝗸🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 1044,
+          "like_count": 2286,
+          "listed_count": 14,
+          "media_count": 61,
+          "tweet_count": 491
+        },
+        "url": "",
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

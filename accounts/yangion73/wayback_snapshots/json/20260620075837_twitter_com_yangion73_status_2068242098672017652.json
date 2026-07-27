@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068242088978944000"
+      ]
+    },
+    "author_id": "2061329105266831360",
+    "conversation_id": "2068242098672017652",
+    "created_at": "2026-06-20T07:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068242098672017652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gmcOyJGOa4",
+          "end": 51,
+          "expanded_url": "https://x.com/yangion73/status/2068242098672017652/photo/1",
+          "media_key": "3_2068242088978944000",
+          "start": 28,
+          "url": "https://t.co/gmcOyJGOa4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068242098672017652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“您的快递预计于 17 日送达”\n今天都 20 号了😇 https://t.co/gmcOyJGOa4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068242088978944000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPfOM8aEAAGmwD.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068242088978944000"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "conversation_id": "2068242098672017652",
+        "created_at": "2026-06-20T07:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068242098672017652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmcOyJGOa4",
+              "end": 51,
+              "expanded_url": "https://x.com/yangion73/status/2068242098672017652/photo/1",
+              "media_key": "3_2068242088978944000",
+              "start": 28,
+              "url": "https://t.co/gmcOyJGOa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068242098672017652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“您的快递预计于 17 日送达”\n今天都 20 号了😇 https://t.co/gmcOyJGOa4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 84,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

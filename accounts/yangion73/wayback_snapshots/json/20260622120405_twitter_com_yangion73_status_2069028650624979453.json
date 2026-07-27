@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2068951749814276467",
+    "created_at": "2026-06-22T12:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069028650624979453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012826439356383232",
+          "start": 0,
+          "username": "hoshimiasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069028650624979453",
+    "in_reply_to_user_id": "2012826439356383232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068951749814276467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshimiasa 中考我没去🙂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2068951749814276467",
+        "created_at": "2026-06-22T12:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069028650624979453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012826439356383232",
+              "start": 0,
+              "username": "hoshimiasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069028650624979453",
+        "in_reply_to_user_id": "2012826439356383232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068951749814276467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshimiasa 中考我没去🙂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012826439356383232",
+        "conversation_id": "2068951749814276467",
+        "created_at": "2026-06-22T06:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068951749814276467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068951749814276467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 489,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "悲告:我上高中了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 94,
+          "like_count": 79,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T09:56:42.000Z",
+        "description": "吾辈是梓鸠phi /橘伊汐phi    11年苦逼初中生‖拉拉人‖涉猎范围极窄‖phiedit谱师 ‖舞萌内屏w5 外键w3玩家     希望和大家交朋友_(:зゝ∠)_",
+        "id": "2012826439356383232",
+        "name": "橘伊汐C₂H₄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062905684493271040/QxfiEQte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 110,
+          "like_count": 1991,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "hoshimiasa",
+        "verified": false
+      }
+    ]
+  }
+}

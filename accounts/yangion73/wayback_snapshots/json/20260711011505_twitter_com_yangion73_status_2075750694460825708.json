@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2075603445709713511",
+    "created_at": "2026-07-11T01:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T02:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075750694460825708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1453347244401430528",
+          "start": 0,
+          "username": "Rainbow_LIN2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075750694460825708",
+    "in_reply_to_user_id": "1453347244401430528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075603445709713511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainbow_LIN2025 我现在卧室门上还吊着一个奇形怪状的法器🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2075603445709713511",
+        "created_at": "2026-07-11T01:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T02:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075750694460825708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1453347244401430528",
+              "start": 0,
+              "username": "Rainbow_LIN2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075750694460825708",
+        "in_reply_to_user_id": "1453347244401430528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075603445709713511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainbow_LIN2025 我现在卧室门上还吊着一个奇形怪状的法器🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1453347244401430528",
+        "conversation_id": "2075603445709713511",
+        "created_at": "2026-07-10T15:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075603445709713511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075603445709713511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "父母在我门口贴了符纸…没招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n续上糖了(开心☺️)\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 177,
+          "like_count": 179,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 331
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T13:06:09.000Z",
+        "description": "疯批一个｜情绪黑洞，别跟我抬杠，欢迎任何人拉黑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+unTHoHxnSutiN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+unTHoHxnSutiNjA1",
+                "start": 0,
+                "url": "https://t.co/xdLKpktyMK"
+              }
+            ]
+          }
+        },
+        "id": "1453347244401430528",
+        "location": "Zhejiang",
+        "name": "Rainbow_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033042952310894594/1q0ETiJO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 473,
+          "like_count": 7448,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 1298
+        },
+        "url": "https://t.co/xdLKpktyMK",
+        "username": "Rainbow_LIN2025",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2075744867897241886",
+    "created_at": "2026-07-11T04:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075795839252082696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1032921581809541120",
+          "start": 0,
+          "username": "skoqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075795839252082696",
+    "in_reply_to_user_id": "1032921581809541120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075776157564465166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skoqaq 那就完了🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2075744867897241886",
+        "created_at": "2026-07-11T04:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075795839252082696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1032921581809541120",
+              "start": 0,
+              "username": "skoqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075795839252082696",
+        "in_reply_to_user_id": "1032921581809541120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075776157564465166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skoqaq 那就完了🙃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1032921581809541120",
+        "conversation_id": "2075744867897241886",
+        "created_at": "2026-07-11T02:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T03:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075776157564465166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2061329105266831360",
+              "start": 0,
+              "username": "yangion73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075776157564465166",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075769680275599483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangion73 可能会把你赶出去 然后和监护人单独谈话  看运气了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n续上糖了(开心☺️)\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 179,
+          "like_count": 181,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-24T09:24:30.000Z",
+        "description": "我很好",
+        "id": "1032921581809541120",
+        "location": "你心里",
+        "name": "sako cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778009466971283456/2ig97Mmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 524,
+          "like_count": 341,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 678
+        },
+        "url": "",
+        "username": "skoqaq",
+        "verified": false
+      }
+    ]
+  }
+}

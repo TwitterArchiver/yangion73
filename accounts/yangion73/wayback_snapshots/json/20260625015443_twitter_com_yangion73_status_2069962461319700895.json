@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069962451970584576"
+      ]
+    },
+    "author_id": "2061329105266831360",
+    "conversation_id": "2069962461319700895",
+    "created_at": "2026-06-25T01:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T02:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069962461319700895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/czX0b3ES6S",
+          "end": 26,
+          "expanded_url": "https://x.com/yangion73/status/2069962461319700895/photo/1",
+          "media_key": "3_2069962451970584576",
+          "start": 3,
+          "url": "https://t.co/czX0b3ES6S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069962461319700895",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早餐 https://t.co/czX0b3ES6S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069962451970584576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLn74ggacAAfvvS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069962451970584576"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "conversation_id": "2069962461319700895",
+        "created_at": "2026-06-25T01:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069962461319700895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czX0b3ES6S",
+              "end": 26,
+              "expanded_url": "https://x.com/yangion73/status/2069962461319700895/photo/1",
+              "media_key": "3_2069962451970584576",
+              "start": 3,
+              "url": "https://t.co/czX0b3ES6S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069962461319700895",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早餐 https://t.co/czX0b3ES6S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 101,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2078651927961932031",
+    "created_at": "2026-07-19T11:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078804917985370562"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078804917985370562",
+    "in_reply_to_user_id": "2061329105266831360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078651927961932031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家理解成什么了😇，我不是要打发奶油，是要冲气球（n2o）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078651904243216384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNja5MwbMAA6foR.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2078651927961932031",
+        "created_at": "2026-07-19T11:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078804917985370562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078804917985370562",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078651927961932031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家理解成什么了😇，我不是要打发奶油，是要冲气球（n2o）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078651904243216384"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "conversation_id": "2078651927961932031",
+        "created_at": "2026-07-19T01:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078651927961932031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5jdpTH273z",
+              "end": 99,
+              "expanded_url": "https://x.com/yangion73/status/2078651927961932031/photo/1",
+              "media_key": "3_2078651904243216384",
+              "start": 76,
+              "url": "https://t.co/5jdpTH273z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078651927961932031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1653,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到了这个，打算玩玩买一个玩玩笑  q， 但是商品页面说不能用于打发奶油，那到底能不能放奶油打发器里🤨（我也怕炸）有没有用过的能给个建议，谢谢喵😇😇😇 https://t.co/5jdpTH273z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 207,
+          "like_count": 206,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 379
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}
