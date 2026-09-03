@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2081734145663983968",
+    "created_at": "2026-07-27T13:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081734145663983968"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081734145663983968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "8.17 将再战上海精卫，上回跑了三个医生也没拿到第二份诊断，希望这回可以，挂了刘娜医生的号\n大概 15 号左右会到上海，想要和同类见面😇\n上回我去吕钦谕那里她说她有下一份诊断，但是去服务台开证又被告诉说没有，至今不明白是怎么回事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2081734145663983968",
+        "created_at": "2026-07-27T13:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081734145663983968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081734145663983968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "8.17 将再战上海精卫，上回跑了三个医生也没拿到第二份诊断，希望这回可以，挂了刘娜医生的号\n大概 15 号左右会到上海，想要和同类见面😇\n上回我去吕钦谕那里她说她有下一份诊断，但是去服务台开证又被告诉说没有，至今不明白是怎么回事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 215,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2082290358374072656",
+    "created_at": "2026-07-29T02:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T03:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082290358374072656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2061329105266831360",
+          "start": 3,
+          "username": "yangion73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082290358374072656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081743844882935952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangion73: 高中录取通知发了，我是原本就在这个学校的初中的，那个时候成绩还好，所以就直升了\n回望一下过去还真是有些感慨，为什么现在的我变成了这个样子，虽然有高中上，而且还是这个区的一中，但是我也不太想去，现在的精神状态再加上学业压力感觉真的会死掉，也对和其他人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2082290358374072656",
+        "created_at": "2026-07-29T02:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082290358374072656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2061329105266831360",
+              "start": 3,
+              "username": "yangion73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082290358374072656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081743844882935952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yangion73: 高中录取通知发了，我是原本就在这个学校的初中的，那个时候成绩还好，所以就直升了\n回望一下过去还真是有些感慨，为什么现在的我变成了这个样子，虽然有高中上，而且还是这个区的一中，但是我也不太想去，现在的精神状态再加上学业压力感觉真的会死掉，也对和其他人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2081743844882935952",
+        "created_at": "2026-07-27T14:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081743844882935952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081743844882935952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 652,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "高中录取通知发了，我是原本就在这个学校的初中的，那个时候成绩还好，所以就直升了\n回望一下过去还真是有些感慨，为什么现在的我变成了这个样子，虽然有高中上，而且还是这个区的一中，但是我也不太想去，现在的精神状态再加上学业压力感觉真的会死掉，也对和其他人的交际感到害怕（重度社恐）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 222,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 420
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

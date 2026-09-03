@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2092545180390105435",
+    "created_at": "2026-08-26T10:25:20.000Z",
+    "display_text_range": [
+      16,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092559010881012088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061773740195921920",
+          "start": 0,
+          "username": "Noise_Echo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092559010881012088",
+    "in_reply_to_user_id": "2061773740195921920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092545180390105435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noise_Echo8964 我今年的生日是在 ICU 里度过的..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2092545180390105435",
+        "created_at": "2026-08-26T10:25:20.000Z",
+        "display_text_range": [
+          16,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092559010881012088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061773740195921920",
+              "start": 0,
+              "username": "Noise_Echo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092559010881012088",
+        "in_reply_to_user_id": "2061773740195921920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092545180390105435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noise_Echo8964 我今年的生日是在 ICU 里度过的..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061773740195921920",
+        "conversation_id": "2092545180390105435",
+        "created_at": "2026-08-26T09:30:23.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092545180390105435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092545180390105435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 282,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉要在精卫里过生日了…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长党？(存疑) |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n 欢迎互 fo 呀\n同类回 fo 可私信",
+        "id": "2061329105266831360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092559010881012088",
+        "name": "溯音 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061329105266831360/1780385073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 248,
+          "like_count": 238,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-02T11:36:27.000Z",
+        "description": "出厂11.08.30 / MtF / 炸柜 / 暂时无法含糖 / 爱听摇滚 / 精卫中 / 身高162  50kg / 意识流写作",
+        "id": "2061773740195921920",
+        "is_identity_verified": false,
+        "location": "反乌托邦",
+        "most_recent_tweet_id": "2092545180390105435",
+        "name": "噪声&回声_Noise&Echo🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061773740195921920/1780996812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085252915275669504/Kkp34iXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 408,
+          "like_count": 4535,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 507
+        },
+        "url": "",
+        "username": "Noise_Echo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

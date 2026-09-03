@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2081618382890377434",
+    "created_at": "2026-07-27T13:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081740113844064755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2073000442796343296",
+          "start": 0,
+          "username": "Awaiting316"
+        },
+        {
+          "end": 18,
+          "id": "1720665183188922368",
+          "start": 13,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081740113844064755",
+    "in_reply_to_user_id": "2073000442796343296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081618382890377434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Awaiting316 @grok 想参与喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2081618382890377434",
+        "created_at": "2026-07-27T13:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081740113844064755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2073000442796343296",
+              "start": 0,
+              "username": "Awaiting316"
+            },
+            {
+              "end": 18,
+              "id": "1720665183188922368",
+              "start": 13,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081740113844064755",
+        "in_reply_to_user_id": "2073000442796343296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081618382890377434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Awaiting316 @grok 想参与喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073000442796343296",
+        "conversation_id": "2081618382890377434",
+        "created_at": "2026-07-27T05:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081618382890377434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 127,
+              "id": "1720665183188922368",
+              "start": 122,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081618382890377434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🎉抽奖！🎁\n\n（真的涨了好多follower呢…这就是受到关注的感觉吗…）\n\n一等奖🏅¥52.1   一位\n二等奖🥈¥13.14   五位\n三等奖🥉 ¥5.21   十位\n\n本帖下✨随便评论一下即可参与\n29日（星期三）晚上11:59分截止，用@grok 开奖，过程会录屏的\n\n可以顺便与咱聊聊天哦，\nLina会全部回复的喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 217,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 413
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-03T11:08:51.000Z",
+        "description": "“Lina”or“可乐” \nCreated 2009.3.16/无证🍥2026.7.12\n疑似小蝴蝶/预高二/≈独居/未出柜\n同类互fo喵！/想认识朋友…/+v？\n学英语＆画画＆伪音ing/业余摄影/HiFi\n❗️莫名其妙的follower立刻block",
+        "id": "2073000442796343296",
+        "location": "深圳/济南……？",
+        "name": "有糖可乐Lina🏳️‍🌈 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073001323684036608/uuw4MxX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 276,
+          "like_count": 931,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "Awaiting316",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8879548,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7221,
+          "media_count": 9191480,
+          "tweet_count": 132446418
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

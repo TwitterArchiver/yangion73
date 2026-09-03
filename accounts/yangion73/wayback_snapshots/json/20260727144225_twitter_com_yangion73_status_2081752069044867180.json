@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2081752069044867180",
+    "created_at": "2026-07-27T14:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081752069044867180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2061329105266831360",
+          "start": 3,
+          "username": "yangion73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081752069044867180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081745730340008122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangion73: 也不知道接下来应该怎么办，希望能听一听大家的意见😞\n我直升本来就是卡线过的（学校有排名限定，直升班初三下就不复习，去上高中的了\n我过去直升班就被吓哭了，大家全都比我厉害，然后学习也一落千丈，虽然也有可能是抑郁，性别焦虑的原因\n现在也不太想去上学，我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2081752069044867180",
+        "created_at": "2026-07-27T14:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081752069044867180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2061329105266831360",
+              "start": 3,
+              "username": "yangion73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081752069044867180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081745730340008122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yangion73: 也不知道接下来应该怎么办，希望能听一听大家的意见😞\n我直升本来就是卡线过的（学校有排名限定，直升班初三下就不复习，去上高中的了\n我过去直升班就被吓哭了，大家全都比我厉害，然后学习也一落千丈，虽然也有可能是抑郁，性别焦虑的原因\n现在也不太想去上学，我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2081745730340008122",
+        "created_at": "2026-07-27T14:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081745730340008122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangion73/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/yangion73/status/2081743844882935952",
+              "start": 142,
+              "url": "https://t.co/rEAfJJA7aF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081745730340008122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081743844882935952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也不知道接下来应该怎么办，希望能听一听大家的意见😞\n我直升本来就是卡线过的（学校有排名限定，直升班初三下就不复习，去上高中的了\n我过去直升班就被吓哭了，大家全都比我厉害，然后学习也一落千丈，虽然也有可能是抑郁，性别焦虑的原因\n现在也不太想去上学，我连中考都没去，但是又不知道能做什么 https://t.co/rEAfJJA7aF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 218,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 416
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}
