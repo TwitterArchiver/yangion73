@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2100563165054706034",
+    "created_at": "2026-09-18T10:48:04.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100899650387743185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970820308421795840",
+          "start": 0,
+          "username": "itz_Kurkur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100899650387743185",
+    "in_reply_to_user_id": "1970820308421795840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100563165054706034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itz_Kurkur 抱抱尼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2100563165054706034",
+        "created_at": "2026-09-18T10:48:04.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100899650387743185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970820308421795840",
+              "start": 0,
+              "username": "itz_Kurkur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100899650387743185",
+        "in_reply_to_user_id": "1970820308421795840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100563165054706034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itz_Kurkur 抱抱尼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970820308421795840",
+        "conversation_id": "2100563165054706034",
+        "created_at": "2026-09-17T12:30:59.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100563165054706034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100563165054706034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3451,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 76,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "唔……大家可不可以抱抱我……喜欢你们喵  好难受想要抱抱……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长党？(存疑) |\n| od | 割 | 双向 | 重焦 | 社恐 |\n回 fo 可私信",
+        "id": "2061329105266831360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100899650387743185",
+        "name": "溯音 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061329105266831360/1780385073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 245,
+          "like_count": 274,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-24T11:59:18.000Z",
+        "description": "HRT26/8/19🍥🍥🍥\nMtF/she,her,them/Cs2/F1/毛主席的好卫兵/oder/trans/bis/CoD/BF(4)\n安托西修退散🙏🏻\n可互fo\n祝所有姐妹们下辈子做可可爱爱的小女孩哦",
+        "id": "1970820308421795840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100881589995766025",
+        "name": "🏳️‍⚧kurkur🏳️‍⚧️🍥🍥",
+        "pinned_tweet_id": "2099132374638575840",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091211602733441024/utzqirTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 194,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "itz_Kurkur",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2095688974622990602",
+    "created_at": "2026-09-04T06:38:02.000Z",
+    "display_text_range": [
+      25,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T07:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095763300802031790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2090037143972593664",
+          "start": 0,
+          "username": "Acetaffyismymom"
+        },
+        {
+          "end": 24,
+          "id": "1945331416528539649",
+          "start": 17,
+          "username": "bpmiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095763300802031790",
+    "in_reply_to_user_id": "2090037143972593664",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095720690255364419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acetaffyismymom @bpmiea +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2095688974622990602",
+        "created_at": "2026-09-04T06:38:02.000Z",
+        "display_text_range": [
+          25,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T07:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095763300802031790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2090037143972593664",
+              "start": 0,
+              "username": "Acetaffyismymom"
+            },
+            {
+              "end": 24,
+              "id": "1945331416528539649",
+              "start": 17,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095763300802031790",
+        "in_reply_to_user_id": "2090037143972593664",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095720690255364419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acetaffyismymom @bpmiea +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090037143972593664",
+        "conversation_id": "2095688974622990602",
+        "created_at": "2026-09-04T03:48:43.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095720690255364419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1945331416528539649",
+              "start": 0,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095720690255364419",
+        "in_reply_to_user_id": "1945331416528539649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095720501046083786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bpmiea 我也请假在家喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长党？(存疑) |\n| od | 紫残| 双向 |\n 欢迎互 fo 呀\n回 fo 可私信",
+        "id": "2061329105266831360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095763300802031790",
+        "name": "溯音 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061329105266831360/1780385073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 253,
+          "like_count": 255,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:29:21.000Z",
+        "description": "雛草姬/普高理科做題家/INTJ/🍺輕度依賴/不o/🔪🤚🏻🩸/身心不大健康 只反對一些立場錯誤的極端羣體，對大部分人都友好 已老實版\n一代已隕落:@Acetaffyismydad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Acetaffyismydad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/acetaffyismydad",
+                "end": 23,
+                "expanded_url": "https://ngl.link/acetaffyismydad",
+                "start": 0,
+                "url": "https://t.co/szTYSvKGYp"
+              }
+            ]
+          }
+        },
+        "id": "2090037143972593664",
+        "is_identity_verified": false,
+        "location": "永雛塔菲生產基地",
+        "most_recent_tweet_id": "2095752537756545064",
+        "name": "塔菲是我疊二代機",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090037143972593664/1787139514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090040489114513408/Vp9HDaFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 222,
+          "like_count": 864,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/szTYSvKGYp",
+        "username": "Acetaffyismymom",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "反跨-No🏳️‍⚧️ | 2011 | HRT:26.1 | 自恨\n纯良女初中生 吸毒✕自残✕键政✕滥交✕\narchlinux | py/kotlin/nodejs\ngfwfucker 防火长城我操你妈\n日常和碎碎念，可能会有负面内容…\n同类互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/l1qu1db0unce",
+                "end": 23,
+                "expanded_url": "https://t.me/l1qu1db0unce",
+                "start": 0,
+                "url": "https://t.co/Mlt6SoH9OF"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "is_identity_verified": false,
+        "location": "台灣 花蓮縣",
+        "most_recent_tweet_id": "2095723881629995048",
+        "name": "叶洛夜🍥𝓑.𝓜.",
+        "pinned_tweet_id": "2090823650073309627",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945331416528539649/1787422427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086111140371976192/HP6Eex1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 786,
+          "like_count": 1267,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 1645
+        },
+        "url": "https://t.co/Mlt6SoH9OF",
+        "username": "bpmiea",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

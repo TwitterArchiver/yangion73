@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2100936459230543990",
+    "created_at": "2026-09-18T17:35:46.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T18:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101002251225743759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "827100694465257476",
+          "start": 0,
+          "username": "wyl2035"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101002251225743759",
+    "in_reply_to_user_id": "827100694465257476",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100936459230543990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyl2035 DONE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_2100936449948553216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgGkerakAAExLf.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2100936459230543990",
+        "created_at": "2026-09-18T17:35:46.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T18:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101002251225743759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "827100694465257476",
+              "start": 0,
+              "username": "wyl2035"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101002251225743759",
+        "in_reply_to_user_id": "827100694465257476",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100936459230543990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyl2035 DONE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100936449948553216"
+          ]
+        },
+        "author_id": "827100694465257476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2100936459230543990",
+        "created_at": "2026-09-18T13:14:20.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100936459230543990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r1m5ejb0tM",
+              "end": 130,
+              "expanded_url": "https://x.com/wyl2035/status/2100936459230543990/photo/1",
+              "media_key": "3_2100936449948553216",
+              "start": 107,
+              "url": "https://t.co/r1m5ejb0tM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100936459230543990",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100936449948553216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 348277,
+          "like_count": 3507,
+          "quote_count": 0,
+          "reply_count": 4941,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "作为比特币情报团队，我们将赠送 4 台 iPhone 18 Pro Max 设备给 4 位幸运粉丝！🎁\n\n无规则或条件。只需点赞此帖并在下方评论“DONE”。\n\n获奖者将于明天凌晨 12:00 公布。祝好运！☘️ https://t.co/r1m5ejb0tM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长党？(存疑) |\n| od | 割 | 双向 | 重焦 | 社恐 |\n回 fo 可私信",
+        "id": "2061329105266831360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101002251225743759",
+        "name": "溯音 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061329105266831360/1780385073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 245,
+          "like_count": 275,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 481
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-02T10:25:47.000Z",
+        "description": "❤️进VIP群➕我电报: btc44444 \n\n电报万人群: https://t.co/aVuMcDvpgF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+SMCdN8jsjns1Y…",
+                "end": 54,
+                "expanded_url": "https://t.me/+SMCdN8jsjns1YzE1",
+                "start": 31,
+                "url": "https://t.co/aVuMcDvpgF"
+              }
+            ]
+          }
+        },
+        "id": "827100694465257476",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100997486634758381",
+        "name": "比特币教主",
+        "pinned_tweet_id": "1916180110165872913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/827100694465257476/1776785756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734729586821435393/dLDEqq05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84703,
+          "following_count": 1820,
+          "like_count": 70,
+          "listed_count": 73,
+          "media_count": 2866,
+          "tweet_count": 7583
+        },
+        "url": "",
+        "username": "wyl2035",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

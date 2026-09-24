@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2098715511379091825",
+    "created_at": "2026-09-13T14:48:32.000Z",
+    "display_text_range": [
+      25,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T15:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099148227006369889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880979169297022976",
+          "start": 0,
+          "username": "Wesley10032"
+        },
+        {
+          "end": 24,
+          "id": "1684788633797287936",
+          "start": 13,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099148227006369889",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098715511379091825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Wesley10032 @Moningmeng 我之前好像还被罚抄过这东西..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2098715511379091825",
+        "created_at": "2026-09-13T14:48:32.000Z",
+        "display_text_range": [
+          25,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099148227006369889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 24,
+              "id": "1684788633797287936",
+              "start": 13,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099148227006369889",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098715511379091825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Wesley10032 @Moningmeng 我之前好像还被罚抄过这东西..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2098715511379091825",
+        "created_at": "2026-09-12T10:09:04.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T11:04:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098714346973176213",
+          "2098715511379091825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098715511379091825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中小学生守则\n推u们做到了几条喵\n\n1.爱党爱国爱人民。了解党史国情，珍视国家荣誉，热爱祖国，热爱人民，热爱中国共产党。\n\n2.好学多问肯钻研。上课专心听讲，积极发表见解，乐于科学探索，养成阅读习惯。\n\n3.勤劳笃行乐奉献。自己事自己做，主动分担家务，参与劳动实践，热心志愿服务。\n\n4.明礼守法讲美德。遵守国法校纪，自觉礼让排队，保持公共卫生，爱护公共财物。\n\n5.孝亲尊师善待人。孝父母敬师长，爱集体助同学，虚心接受批评，学会合作共处。\n\n6.诚实守信有担当。保持言行一致，不说谎不作弊，借东西及时还，做到知错就改。\n\n7.自强自律健身心。坚持锻炼身体，乐观开朗向上，不吸烟不喝酒，文明绿色上网。\n\n8.珍爱生命保安全。红灯停绿灯行，防溺水不玩火，会自护懂求救，坚决远离毒品。\n\n9.勤俭节约护家园。不比吃喝穿戴，爱惜花草树木，节粮节水节电，低碳环保生活。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6643,
+          "like_count": 124,
+          "quote_count": 2,
+          "reply_count": 53,
+          "retweet_count": 3
+        },
+        "reply_settings": "other",
+        "text": "中小学生守则\n推u们做到了几条喵\n\n1.爱党爱国爱人民。了解党史国情，珍视国家荣誉，热爱祖国，热爱人民，热爱中国共产党。\n\n2.好学多问肯钻研。上课专心听讲，积极发表见解，乐于科学探索，养成阅读习惯。\n\n3.勤劳笃行乐奉献。自己事自己做，主动分担家务，参与劳动实践，热心志愿服务。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长党？(存疑) |\n| od | 割 | 双向 | 重焦 | 社恐 |\n回 fo 可私信",
+        "id": "2061329105266831360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099148227006369889",
+        "name": "溯音 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061329105266831360/1780385073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 244,
+          "like_count": 271,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 478
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂不翻车😡/08.11.3/轻度抑郁?\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033\nBluesky备用号:@wesley10032.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Wesley10033"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "wesley10032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2099004486316663292",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 1883,
+          "like_count": 28625,
+          "listed_count": 2,
+          "media_count": 541,
+          "tweet_count": 4201
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2099117771636588943",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1789083358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30270,
+          "following_count": 12181,
+          "like_count": 99431,
+          "listed_count": 104,
+          "media_count": 5861,
+          "tweet_count": 20788
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
