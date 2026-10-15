@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061329105266831360",
+    "conversation_id": "2102329523060826225",
+    "created_at": "2026-09-23T11:47:26.000Z",
+    "display_text_range": [
+      17,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T12:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102726531235844588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889206585152741376",
+          "start": 0,
+          "username": "ChanaWeins89377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102726531235844588",
+    "in_reply_to_user_id": "1889206585152741376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102329523060826225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChanaWeins89377 在没有 ai 的时代作出的巨著"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2102329483030396928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSz5hrTbgAAujD6.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3685,
+        "media_key": "3_2102329500667375616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSz5itAacAA6Klt.jpg",
+        "width": 2551
+      },
+      {
+        "height": 3314,
+        "media_key": "3_2102329512470204416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSz5jY-bUAA2zfD.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2102329523060826225",
+        "created_at": "2026-09-23T11:47:26.000Z",
+        "display_text_range": [
+          17,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102726531235844588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889206585152741376",
+              "start": 0,
+              "username": "ChanaWeins89377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102726531235844588",
+        "in_reply_to_user_id": "1889206585152741376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102329523060826225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChanaWeins89377 在没有 ai 的时代作出的巨著"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102329483030396928",
+            "3_2102329500667375616",
+            "3_2102329512470204416"
+          ]
+        },
+        "author_id": "1889206585152741376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2102329523060826225",
+        "created_at": "2026-09-22T09:29:52.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T10:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102329523060826225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uikbvx2YCK",
+              "end": 69,
+              "expanded_url": "https://x.com/ChanaWeins89377/status/2102329523060826225/photo/1",
+              "media_key": "3_2102329483030396928",
+              "start": 46,
+              "url": "https://t.co/Uikbvx2YCK"
+            },
+            {
+              "display_url": "pic.x.com/Uikbvx2YCK",
+              "end": 69,
+              "expanded_url": "https://x.com/ChanaWeins89377/status/2102329523060826225/photo/1",
+              "media_key": "3_2102329500667375616",
+              "start": 46,
+              "url": "https://t.co/Uikbvx2YCK"
+            },
+            {
+              "display_url": "pic.x.com/Uikbvx2YCK",
+              "end": 69,
+              "expanded_url": "https://x.com/ChanaWeins89377/status/2102329523060826225/photo/1",
+              "media_key": "3_2102329512470204416",
+              "start": 46,
+              "url": "https://t.co/Uikbvx2YCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102329523060826225",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102329483030396928"
+          },
+          {
+            "media_key": "3_2102329500667375616"
+          },
+          {
+            "media_key": "3_2102329512470204416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 433,
+          "impression_count": 671363,
+          "like_count": 1348,
+          "quote_count": 10,
+          "reply_count": 117,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "《胡锦涛班底》里面介绍习近平也就罢了，习近千 习近乎和司近平是在干嘛啊我草。\n五块钱没白花 https://t.co/Uikbvx2YCK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长党？(存疑) |\n| od | 割 | 双向 | 重焦 | 社恐 |\n回 fo 可私信",
+        "id": "2061329105266831360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102726531235844588",
+        "name": "溯音 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061329105266831360/1780385073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 254,
+          "like_count": 282,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T06:56:59.000Z",
+        "description": "社交能力非常糟 精神状态堪忧 几乎没有道德底线的一款低质量人类，如果让你不高兴了对不起我没有恶意真的，欢迎所有人来找我玩。中⌚博爱。最大属性周飞辱追，看见他挨骂（各种意义上的）我都会很开心😋",
+        "id": "1889206585152741376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102393506014883906",
+        "name": "Ender桓桓",
+        "pinned_tweet_id": "2013950943281529003",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889206585152741376/1748647363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928588169009836034/cjk9Jz-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 160,
+          "like_count": 4521,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 1005
+        },
+        "url": "",
+        "username": "ChanaWeins89377",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102716097539760129"
+      ]
+    },
+    "author_id": "2061329105266831360",
+    "conversation_id": "2102627719062446208",
+    "created_at": "2026-09-23T11:06:00.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T12:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102716105500553268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2019787701432532992",
+          "start": 0,
+          "username": "cx330_xyn2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hTzhGy6kTh",
+          "end": 47,
+          "expanded_url": "https://x.com/yangion73/status/2102716105500553268/photo/1",
+          "media_key": "3_2102716097539760129",
+          "start": 24,
+          "url": "https://t.co/hTzhGy6kTh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102716105500553268",
+    "in_reply_to_user_id": "2019787701432532992",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102716097539760129"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102627719062446208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cx330_xyn2 其实并不会（倒霉的我） https://t.co/hTzhGy6kTh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2102716097539760129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5ZJmlaYAEgGl8.jpg",
+        "width": 1280
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2102627703417671680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4IwY0bEAA8pkc.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102716097539760129"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "conversation_id": "2102627719062446208",
+        "created_at": "2026-09-23T11:06:00.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102716105500553268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019787701432532992",
+              "start": 0,
+              "username": "cx330_xyn2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hTzhGy6kTh",
+              "end": 47,
+              "expanded_url": "https://x.com/yangion73/status/2102716105500553268/photo/1",
+              "media_key": "3_2102716097539760129",
+              "start": 24,
+              "url": "https://t.co/hTzhGy6kTh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102716105500553268",
+        "in_reply_to_user_id": "2019787701432532992",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102716097539760129"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102627719062446208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cx330_xyn2 其实并不会（倒霉的我） https://t.co/hTzhGy6kTh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102627703417671680"
+          ]
+        },
+        "author_id": "2019787701432532992",
+        "conversation_id": "2102627719062446208",
+        "created_at": "2026-09-23T05:14:47.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T06:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102627719062446208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ySDpaTrjVq",
+              "end": 47,
+              "expanded_url": "https://x.com/cx330_xyn2/status/2102627719062446208/photo/1",
+              "media_key": "3_2102627703417671680",
+              "start": 24,
+              "url": "https://t.co/ySDpaTrjVq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102627719062446208",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102627703417671680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1444,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还好晶哥没翻我柜子，这一柜子够判个3天拘留的了 https://t.co/ySDpaTrjVq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长党？(存疑) |\n| od | 割 | 双向 | 重焦 | 社恐 |\n回 fo 可私信",
+        "id": "2061329105266831360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102716105500553268",
+        "name": "溯音 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061329105266831360/1780385073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 253,
+          "like_count": 281,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-06T14:58:22.000Z",
+        "description": "mtf | 跨性别女同 | 闲聊推 | 生产日期2012.8.10 | 168cm70kg东北小药娘 | 现居北京 | 重度抑郁 | 无证含糖 | hrt开始时间2025.6.25 | 炸柜转家长党 | kiger | 同类互fo",
+        "id": "2019787701432532992",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2102701787233099887",
+        "name": "cx330🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2038348080182186181",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2019787701432532992/1773308331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032028385405530113/r9jQ0gP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 313,
+          "like_count": 145,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "cx330_xyn2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
